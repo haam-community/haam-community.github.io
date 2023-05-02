@@ -1,18 +1,16 @@
 <div id="sidebar" style="bottom:0px;left=0px">
 
-  {% comment }
   <header>
   <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
   {% unless page.url == "/" %}
   <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
   {% endunless %}
-  <a href="/">
+  <!-- <a href="/">
   <img src="/assets/media/HAAM-Logo-Full-Colour_ShortName.svg" alt="HAAM Community" class="center" role="log"/>
-  </a>
+  </a> -->
   </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
   <p class="lead">{{ site.description }}</p>
   </header>
-  {% endcomment %}
 
 <a href="/about">About</a> 
 <a href="/category/news">News</a>
@@ -33,7 +31,4 @@
   <p class='copyright'> &copy; {{ site.time | date: '%Y' }}.
   <a href="{{ "/LICENSE.md" | relative_url }}">MIT License.</a>
   </p>
-  </div>
-
-
-
+</div>

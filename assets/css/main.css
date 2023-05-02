@@ -1,0 +1,88 @@
+---
+# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+# only main files contain this front matter, not partials.
+---
+
+@import url("https://fonts.googleapis.com/css?family=Varela+Round:300,400,600");
+
+$sidebar-bg-color: #732a82;
+$link-color: #732a82;
+//$sidebar-sticky: false;
+$root-font-family: -apple-system, "Varela Round", Arial, sans-serif !default;
+
+@import "hydeout";
+
+.row {
+  display: flex;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Custom HAAM Styling - all modified after sedaDNA society
+.button-join {
+  background: #3A5FCD;
+  border: 1px solid #3A5FCD;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 16px;
+  font-family: "Varela Round";
+  font-size: 14px;
+  font-weight: 800;
+  min-height: 40px;
+  outline: 0;
+  padding: 8px 16px;
+  margin: 2px 2px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+.button-join:hover,
+.button-join:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #232741;
+  border: 1px solid #3A5FCD;
+}
+
+// From sedaDNA.github.io
+
+.avatar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.avatar img {
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  display: block;
+  margin: auto;
+}
+
+.member p {
+  text-align: center;
+  font-size: 0.7rem;
+  margin-bottom: 0;
+  display: block;
+}
+
+.member p:first-of-type {
+  font-size: 0.8rem;
+  color: #000;
+  font-weight: bold;
+}
