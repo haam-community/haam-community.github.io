@@ -1,3 +1,4 @@
+<!-- this includes the logo at the footer and the logo inscription -->
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: 'en-us'}}">
 
@@ -10,12 +11,14 @@
     
     <main class="container">
       {{ content }}
-      <img src="/assets/media/HAAM_Blue.svg" class="center" width="60px">
+    <!-- code below includes how to add hover text.-->
+    <!--img src="/assets/media/HAAM_Blue.svg" class="center" width="60px" title="The HAAM logo was designed by Irene Rainer."-->
+    <img src="/assets/media/HAAM_Blue.svg" class="center" width="60px">
+    <h1 style="font-size: 0.4rem"; class="center">The HAAM logo was designed by Irene Rainer.</h1>
     </main>
     
     
 
     {% include custom-foot.html %}
   </body>
-
 </html>
