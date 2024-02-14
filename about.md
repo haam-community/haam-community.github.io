@@ -4,7 +4,7 @@ title: About us
 sidebar_link: true
 ---
 
-We are an international and open community of researchers interested in studying human population history, admixture, and mobility through ancient DNA.
+We are an international and open community of researchers interested in studying human population history, ancestry, and mobility through ancient DNA.
 
 Our main goal is the open exchange of knowledge for the betterment of the field, and to work together to overcome common challenges of human aDNA research.
 In the future, we plan to organise training workshops, as well as collaborative projects to benefit the entire community.
