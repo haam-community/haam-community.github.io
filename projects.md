@@ -20,14 +20,12 @@ Here we provide a list of projects run by the HAAM community that are currently 
 
 HAAM-Tasting will be an inaugural webinar series with invited speakers, and will allow any young career researcher to present their research.
 
-More info soon:
-
 Team: [Tina Saupe](mailto:tsaupe@live.de) and [Xavier Roca Rada](mailto:xavier.rocarada@adelaide.edu.au)
 
 
 # HAAM Summer School
 
-More info soon!
+🏗️ More info soon! 
 
 Team: [Tina Saupe](mailto:tsaupe@live.de), [Miren Iraeta Orbegozo](mailto:miren.iraeta@palaeome.org), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de)and [Marina Silva](mailto:marina.silva@crick.ac.uk)
 
