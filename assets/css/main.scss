@@ -70,6 +70,7 @@ $root-font-family: -apple-system, "Varela Round", Arial, sans-serif !default;
   width: 6rem;
   height: 6rem;
   object-fit: cover;
+  object-position: center top; // If the picture is larger/smaller than the avatar space, cop keeping the middle-top part.
   display: block;
   margin: auto;
 }
