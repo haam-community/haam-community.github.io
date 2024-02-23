@@ -14,7 +14,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Beatriz-Amorim-3/research" target="_blank"><img src="{{ "/assets/media/profile_pictures/Beatriz_Amorim.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.eva.mpg.de/tropical-archaeogenomics/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Beatriz_Amorim.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Beatriz Amorim</p>
 <!--<p><b>ROLE</b></p>-->
 <p>University of Porto</p>
@@ -49,6 +49,8 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="square"><a href="https://www.researchgate.net/profile/Xavier-Roca-Rada" target="_blank"><img src="{{ "/assets/media/profile_pictures/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Xavier Roca-Rada</p>
 <!--<p><b>ROLE</b></p>-->
+<p>ACAD, The University of Adelaide</p>
+<p>Adelaide, AU</p>
 <p>University of Coimbra</p>
 <p>Coimbra, PT</p>
 <!-- <p><b><a href="mailto:programming@isbarch.org">Contact</a></b></p> -->
@@ -101,7 +103,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="square"><a href="https://www.researchgate.net/profile/Roberta-Davidson" target="_blank"><img src="{{ "/assets/media/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Roberta Davidson</p>
 <!--<p><b>ROLE</b></p>-->
-<p>University of Adelaide</p>
+<p>ACAD, The University of Adelaide</p>
 <p>Adelaide, AU</p>
 <!-- <p><b><a href="mailto:compliance@isbarch.org">Contact</a></b></p> -->
 </div>
