@@ -78,7 +78,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Marina-Silva-9" target="_blank"><img src="{{ "/assets/media/profile_pictures/Marina_Silva.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.crick.ac.uk/research/find-a-researcher/marina-soares-da-silva" target="_blank"><img src="{{ "/assets/media/profile_pictures/Marina_Silva.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Marina Silva</p>
 <!--<p><b>ROLE</b></p>-->
 <p>The Francis Crick Institute</p>
