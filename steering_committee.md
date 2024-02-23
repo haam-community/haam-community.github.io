@@ -68,7 +68,7 @@ They contain div class "member" blocks that have the picture of each member foll
 
 <div class ="member">
 <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/558828" target="_blank"><img src="{{ "/assets/media/profile_pictures/Miren_Iraeta_Orbegozo.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Miren Iraeta Obregozo</p>
+<p>Miren Iraeta Orbegozo</p>
 <!--<p><b>ROLE</b></p>-->
 <p>GLOBE Institute</p>
 <p>Copenhagen, DK</p>
