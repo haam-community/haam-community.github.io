@@ -49,7 +49,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="square"><a href="https://www.researchgate.net/profile/Xavier-Roca-Rada" target="_blank"><img src="{{ "/assets/media/profile_pictures/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Xavier Roca-Rada</p>
 <!--<p><b>ROLE</b></p>-->
-<p>ACAD, The University of Adelaide</p>
+<p>ACAD, University of Adelaide</p>
 <p>Adelaide, AU</p>
 <p>University of Coimbra</p>
 <p>Coimbra, PT</p>
@@ -105,7 +105,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="square"><a href="https://www.researchgate.net/profile/Roberta-Davidson" target="_blank"><img src="{{ "/assets/media/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Roberta Davidson</p>
 <!--<p><b>ROLE</b></p>-->
-<p>ACAD, The University of Adelaide</p>
+<p>ACAD, University of Adelaide</p>
 <p>Adelaide, AU</p>
 <!-- <p><b><a href="mailto:compliance@isbarch.org">Contact</a></b></p> -->
 </div>
