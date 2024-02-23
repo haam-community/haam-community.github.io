@@ -74,6 +74,8 @@ They contain div class "member" blocks that have the picture of each member foll
 <!--<p><b>ROLE</b></p>-->
 <p>GLOBE Institute</p>
 <p>Copenhagen, DK</p>
+<p>University College Dublin</p>
+<p>Dublin, IE</p>
 </div>
 
 </div>
