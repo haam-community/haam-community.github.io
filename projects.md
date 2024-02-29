@@ -37,7 +37,7 @@ Website: https://haam-community.github.io/haam-summer-school
 Supported by: 
 -->
 
-Team: [Tina Saupe](mailto:tsaupe@live.de), [Miren Iraeta Orbegozo](mailto:miren.iraeta@palaeome.org), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de) and [Marina Silva](mailto:marina.silva@crick.ac.uk)
+Team: [Tina Saupe](mailto:tsaupe@live.de), [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de) and [Marina Silva](mailto:marina.silva@crick.ac.uk)
 
 
 # HAAM Website
