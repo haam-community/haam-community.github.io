@@ -96,7 +96,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Adam-Rohrlach" target="_blank"><img src="{{ "/assets/media/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Adam-Rohrlach" target="_blank"><img src="{{ "/assets/media/profile_pictures/Adam_Ben_Rohrlach.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Adam Ben Rorhlach</p>
 <!--<p><b>ROLE</b></p>-->
 <p>MPI-EVA</p>
