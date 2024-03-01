@@ -6,11 +6,11 @@ sidebar_link: true
 
 Since the public launch of the HAAM-community in summer 2023, our community has grown to more than 100 members with 10 founders working in different institutions worldwide. The members of the steering committee have chosen to be part of different working groups focused in developing several projects within this scope.
 
-Here we provide a list of projects run by the HAAM community that are currently in development.
+Here we provide a list of projects run by the HAAM community that are currently ongoing.
 
 <!-- TOC -->
 
-- [HAAM Tasting](#haam-tasting)
+- [HAAM-Tasting Webinar series](/projects/haam_tasting)
 - [HAAM Summer School](#haam-summer-school)
 - [HAAM Website](#haam-website)
 
@@ -27,7 +27,7 @@ Team: [Tina Saupe](mailto:tsaupe@live.de) and [Xavier Roca Rada](mailto:xavier.r
 
 To help widely disseminate knowledge and expertise in human ancient DNA analysis, groups in the HAAM community offer various training workshops.
 
-These will occur on either on a regular basis or as on-off events, so generally please keep an eye on the [events](https://haam-community.github.io/category/events/) page, as well as the various social media channels.
+These will occur on either on a regular basis or as on-off events, so generally please keep an eye on the [events](/category/events/) page, as well as the various social media channels.
 
 We will list regular events here, as well as those that make their training material available online for self-learning:
 
