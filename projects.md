@@ -25,9 +25,19 @@ Team: [Tina Saupe](mailto:tsaupe@live.de) and [Xavier Roca Rada](mailto:xavier.r
 
 # HAAM Summer School
 
-🏗️ More info soon! 
+To help widely disseminate knowledge and expertise in human ancient DNA analysis, groups in the HAAM community offer various training workshops.
 
-Team: [Tina Saupe](mailto:tsaupe@live.de), [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de)and [Marina Silva](mailto:marina.silva@crick.ac.uk)
+These will occur on either on a regular basis or as on-off events, so generally please keep an eye on the [events](https://haam-community.github.io/category/events/) page, as well as the various social media channels.
+
+We will list regular events here, as well as those that make their training material available online for self-learning:
+
+Annually
+<!--
+Website: https://haam-community.github.io/haam-summer-school
+Supported by: 
+-->
+
+Team: [Tina Saupe](mailto:tsaupe@live.de), [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de) and [Marina Silva](mailto:marina.silva@crick.ac.uk)
 
 
 # HAAM Website
