@@ -4,7 +4,7 @@ title: HAAM-Tasting Webinar series
 sidebar_link: true
 ---
 
-Coordinators: [Tina Saupe](mailto:tsaupe@live.de) and [Xavier Roca Rada](mailto:xavier.rocarada@adelaide.edu.au)
+Coordinators: [Tina Saupe](mailto:tsaupe@live.de) and [Xavier Roca-Rada](mailto:xavier.rocarada@adelaide.edu.au)
 
 For up-to-date information follow us on X at [@haam_community](https://twitter.com/HAAM_community) and use the [#HAAM-tasting](https://twitter.com/hashtag/HAAM-Tasting). 
 
