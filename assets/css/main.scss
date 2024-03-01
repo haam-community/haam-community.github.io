@@ -88,8 +88,17 @@ $root-font-family: -apple-system, "Varela Round", Arial, sans-serif !default;
   font-weight: bold;
 }
 
-// Adjust styling of header rows in tables.
 table th {
+  // Adjust styling of header rows in tables.
   background-color: #3A5FCF;
   color: #ffffff;
+}
+
+.member {
+  // Set the minimum and maximum width of each member element so they all align nicely.
+  // Also add a small margin (relative to the "root element size") above AND below each member div element.
+  min-width: 33%;  // 33% because we have 3 members per line
+  max-width: 33%;  // 33% because we have 3 members per line
+  margin-top: 1rem;
+
 }

@@ -33,9 +33,6 @@ They contain div class "member" blocks that have the picture of each member foll
 <!-- <p><b><a href="mailto:vicepresident@isbarch.org">Contact</a></b></p> -->
 </div>
 
-</div>
-<div class="avatar">
-
 <div class ="member">
 <div class="square"><a href="https://www.eva.mpg.de/de/archaeogenetics/staff/laura-lacher/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Laura_Lacher.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Laura Lacher</p>
@@ -44,6 +41,9 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Leipzig, DE</p>
 <!-- <p><b><a href="mailto:secretary@isbarch.org">Contact</a></b></p> -->
 </div>
+
+</div>
+<div class="avatar">
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Xavier-Roca-Rada" target="_blank"><img src="{{ "/assets/media/profile_pictures/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -55,9 +55,6 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Coimbra, PT</p>
 <!-- <p><b><a href="mailto:programming@isbarch.org">Contact</a></b></p> -->
 </div>
-
-</div>
-<div class="avatar">
 
 <div class ="member">
 <div class="square"><a href="https://www.katalog.uu.se/empinfo/?id=N23-275" target="_blank"><img src="{{ "/assets/media/profile_pictures/Tina_Saupe.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -98,20 +95,8 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Leipzig, DE</p>
 </div>
 
-</div>
-<div class="avatar">
-
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Roberta-Davidson" target="_blank"><img src="{{ "/assets/media/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Roberta Davidson</p>
-<!--<p><b>ROLE</b></p>-->
-<p>ACAD, University of Adelaide</p>
-<p>Adelaide, AU</p>
-<!-- <p><b><a href="mailto:compliance@isbarch.org">Contact</a></b></p> -->
-</div>
-
-<div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Adam-Rohrlach" target="_blank"><img src="{{ "/assets/media/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Adam-Rohrlach" target="_blank"><img src="{{ "/assets/media/profile_pictures/Adam_Ben_Rohrlach.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Adam Ben Rorhlach</p>
 <!--<p><b>ROLE</b></p>-->
 <p>MPI-EVA</p>
@@ -122,13 +107,13 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 </div>
-<div class="avatar">
 
 <!-- 
 NEW MEMBER TEMPLATE
 -->
-
 <!--
+<div class="avatar">
+
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>NAME</p>
@@ -137,9 +122,9 @@ NEW MEMBER TEMPLATE
 <p>CITY, COUNTRY</p>
 <p><b><a href="mailto:media@isbarch.org">Contact</a></b></p>
 </div>
--->
 
 </div>
+-->
 
 ## Roles:
 
