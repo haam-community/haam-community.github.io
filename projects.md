@@ -27,7 +27,7 @@ Team: [Tina Saupe](mailto:tsaupe@live.de) and [Xavier Roca Rada](mailto:xavier.r
 
 🏗️ More info soon! 
 
-Team: [Tina Saupe](mailto:tsaupe@live.de), [Miren Iraeta Orbegozo](mailto:miren.iraeta@palaeome.org), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de)and [Marina Silva](mailto:marina.silva@crick.ac.uk)
+Team: [Tina Saupe](mailto:tsaupe@live.de), [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de)and [Marina Silva](mailto:marina.silva@crick.ac.uk)
 
 
 # HAAM Website
