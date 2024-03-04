@@ -6,11 +6,11 @@ sidebar_link: true
 
 Since the public launch of the HAAM-community in summer 2023, our community has grown to more than 100 members with 10 founders working in different institutions worldwide. The members of the steering committee have chosen to be part of different working groups focused in developing several projects within this scope.
 
-Here we provide a list of projects run by the HAAM community that are currently in development.
+Here we provide a list of projects run by the HAAM community that are currently ongoing.
 
 <!-- TOC -->
 
-- [HAAM Tasting](#haam-tasting)
+- [HAAM-Tasting Webinar series](/projects/haam_tasting)
 - [HAAM Summer School](#haam-summer-school)
 - [HAAM Website](#haam-website)
 
@@ -20,16 +20,24 @@ Here we provide a list of projects run by the HAAM community that are currently 
 
 HAAM-Tasting will be an inaugural webinar series with invited speakers, and will allow any young career researcher to present their research.
 
-More info soon:
-
-Team: [Tina Saupe](mailto:tsaupe@live.de) and [Xavier Roca Rada](mailto:xavier.rocarada@adelaide.edu.au)
+Team: [Tina Saupe](mailto:tsaupe@live.de) and [Xavier Roca-Rada](mailto:xavier.rocarada@adelaide.edu.au)
 
 
 # HAAM Summer School
 
-More info soon!
+To help widely disseminate knowledge and expertise in human ancient DNA analysis, groups in the HAAM community offer various training workshops.
 
-Team: [Tina Saupe](mailto:tsaupe@live.de), [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de)and [Marina Silva](mailto:marina.silva@crick.ac.uk)
+These will occur on either on a regular basis or as on-off events, so generally please keep an eye on the [events](/category/events/) page, as well as the various social media channels.
+
+We will list regular events here, as well as those that make their training material available online for self-learning:
+
+Annually
+<!--
+Website: https://haam-community.github.io/haam-summer-school
+Supported by: 
+-->
+
+Team: [Tina Saupe](mailto:tsaupe@live.de), [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de) and [Marina Silva](mailto:marina.silva@crick.ac.uk)
 
 
 # HAAM Website
