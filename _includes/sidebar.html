@@ -15,8 +15,13 @@
 <a href="/about">About us</a> 
 <a href="/category/news">News</a>
 <a href="/category/blog">Blog</a>
-<a href="/projects">Projects</a>
 <a href="/category/events">Events</a>
+<a class="foldingArrow" style="display: inline-block;" onclick="toggleSubcategories()" id="arrow">&#5171;</a> <a style="display: inline-block;" href="/projects">Projects</a>
+  <div style="display: none;" id="subcategories">
+    <a class="subcategory" href="/projects/haam_tasting">HAAM-Tasting Webinars</a>
+    <a class="subcategory" href="/projects#haam-summer-school">Summer School</a>
+    <!-- <a href="#">Website</a> -->
+  </div>
 <!-- <a href="/category/publications">Publications</a> -->
 <!-- <a href="/support-and-acknowledgements">Support and Acknowledgements</a> -->
 <a href="/steering_committee">Steering Committee</a>
@@ -34,3 +39,19 @@
   <a href="{{ "/LICENSE.md" | relative_url }}">MIT License.</a>
   </p>
 </div>
+
+<!-- This function folds and unfolds the projects categories upon clicking the right arrow character -->
+<script>
+  function toggleSubcategories() {
+    var subcategories = document.getElementById("subcategories");
+    var arrow = document.getElementById("arrow");
+
+    if (subcategories.style.display === "none") {
+      subcategories.style.display = "block";
+      arrow.innerHTML = "&#5167;"; // Down-facing arrow
+    } else {
+      subcategories.style.display = "none";
+      arrow.innerHTML = "&#5171;"; // Right-facing arrow
+    }
+  }
+</script>

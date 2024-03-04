@@ -102,3 +102,16 @@ table th {
   margin-top: 1rem;
 
 }
+
+/* Style for categories in the sidebar */
+.foldingArrow {
+  font-size: 0.6rem;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Style for the sidebar subcategories. Adds left margin */
+.subcategory {
+  margin-left: 1.5rem;
+  font-size: 0.8rem;
+}
