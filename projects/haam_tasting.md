@@ -8,7 +8,7 @@ Coordinators: [Tina Saupe](mailto:tsaupe@live.de) and [Xavier Roca-Rada](mailto:
 
 For up-to-date information follow us on X at [@haam_community](https://twitter.com/HAAM_community) and use the [#HAAM-tasting](https://twitter.com/hashtag/HAAM-Tasting). 
 
-The HAAM-Tasting Webinar series is an inaugural webinar series organised by members of the HAAM-community. We’re an international, open, and engaging working group focusing on equality in speech and time. We focus on giving (early career) researchers their own time to present their research to a wider audience outside of the usual conference environments.
+The HAAM-Tasting Webinar series is organised by members of the HAAM-community. We’re an international, open, and engaging working group. We focus on giving (early career) researchers the opportunity to present their research to a wider audience outside of the usual conference environments, and promoting equal representation within the field of ancient human DNA research.
 
 Each webinar focuses on open research questions of one particular geographical region, time period and is planned to consist of two parts:
 - The first part are invited speakers introducing the theme of the current webinar and who have accepted to present their research to community members as well as others interested to get an insight into our ongoing research projects of the human past.
