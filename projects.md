@@ -11,7 +11,7 @@ Here we provide a list of projects run by the HAAM community that are currently 
 <!-- TOC -->
 
 - [HAAM-Tasting Webinar series](/projects/haam_tasting)
-- [HAAM Summer School](#haam-summer-school)
+- [HAAM Summer School](/projects/haam-summer-school)
 - [HAAM Website](#haam-website)
 
 <!-- /TOC -->
