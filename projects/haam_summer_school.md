@@ -22,7 +22,7 @@ The programme will include both theoretical and practical sessions. The exact sc
 The students will work on a real (published) dataset, processing it from raw sequencing reads to genotypes.
 For practical sessions focused on specific tools or software, we invited the developers of said tools whenever possible to lead the workshops, in order to optimise the learning experience.
 
-Dates: June/July 2024 (TBC!)
+Dates: June 2024 (Exact dates coming soon!)
 
 ⭐️ Applications will open soon! ⭐️
 
