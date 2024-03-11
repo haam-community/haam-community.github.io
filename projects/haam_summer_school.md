@@ -4,7 +4,7 @@ title: HAAM-Summer School
 sidebar_link: true
 ---
 
-Coordinators: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de) and [Marina Silva](mailto:marina.silva@crick.ac.uk)
+Coordinators: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de), [Marina Silva](mailto:marina.silva@crick.ac.uk), and [Tina Saupe](mailto:tsaupe@live.de)
 
 _This page will be updated as more information about the summer school becomes available._
 
@@ -21,10 +21,6 @@ The programme will include both theoretical and practical sessions. The exact sc
 
 The students will work on a real (published) dataset, processing it from raw sequencing reads to genotypes.
 For practical sessions focused on specific tools or software, we invited the developers of said tools whenever possible to lead the workshops, in order to optimise the learning experience.
-
-At the end of each day we will host a round table, where attendees will have the opportunity to ask specific questions about their own datasets or to discuss any topics in more detail.
-
-We aim to approach gender parity amongst the instructors as much as possible, with five female and five male instructors invited, affiliated to institutions across Europe, the USA, and Turkey and representing a wide variety of career stages (PhD students, postdocs and group leaders). At the time of submission of this proposal we have gotten confirmation from seven instructors: James Fellows Yates, Selina Carlhoff, Harald Ringbauer, Stephan Schiffels, Robert Maier and Sevval Akturk. 
 
 Dates: June/July 2024 (TBC!)
 

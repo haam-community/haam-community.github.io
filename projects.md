@@ -32,12 +32,14 @@ These will occur on either on a regular basis or as on-off events, so generally 
 
 We will list regular events here, as well as those that make their training material available online for self-learning:
 
+More details regarding the project can be found in our [dedicated project page](/projects/haam_summer_school).
+
 <!--
 Website: https://haam-community.github.io/haam-summer-school
 Supported by: 
 -->
 
-Team: [Tina Saupe](mailto:tsaupe@live.de), [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de) and [Marina Silva](mailto:marina.silva@crick.ac.uk)
+Team: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de), [Marina Silva](mailto:marina.silva@crick.ac.uk), and [Tina Saupe](mailto:tsaupe@live.de)
 
 
 # HAAM Website
