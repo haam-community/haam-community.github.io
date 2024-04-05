@@ -6,7 +6,20 @@ sidebar_link: true
 
 Coordinators: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de), [Marina Silva](mailto:marina.silva@crick.ac.uk), and [Tina Saupe](mailto:tsaupe@live.de)
 
-_This page will be updated as more information about the summer school becomes available._
+📣 The HAAM Summer School for 2024 has been announced! 📣
+
+## At a glance:
+
+- **When:** 📅 _17th - 19th June 2024_
+- **Where:** 🌐 _Online_
+- **Price:** 💰 _Free_
+- **Target audience:** 🧑‍🔬🧑‍💻 Students and early career researchers
+
+For more information see [this post](/events/2024/04/05/event/).
+
+⭐️ Applications will open soon! ⭐️
+
+# Information
 
 In line with the goals of the HAAM community to advance the field of human population genetics and ancient DNA (aDNA) through open collaboration and knowledge sharing, we are organising the first annual HAAM Summer School to share the latest methodologies in human aDNA research through online hands-on workshops by leading experts in the field.
 
@@ -19,7 +32,4 @@ The programme will include both theoretical and practical sessions. The exact sc
 - how to curate archaeogenetic data,
 - how to perform analyses of genetic relatedness, and population history
 
-Dates: June 2024 (Exact dates coming soon!)
-
-⭐️ Applications will open soon! ⭐️
 
