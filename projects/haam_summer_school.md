@@ -25,7 +25,7 @@ In line with the goals of the HAAM community to advance the field of human popul
 
 The Summer School will be held in a 100% virtual format to maximise accessibility and inclusivity for attendees worldwide, particularly for those working in lower-income countries and/or with limited funding. There will be a limited number of attendee positions.
 
-The programme will include both theoretical and practical sessions. The exact schedule is still to be confirmed, but over the course of three days, students will be given a dedicated to introduction to:
+The programme will include both theoretical and practical sessions. The exact schedule is still to be confirmed, but over the course of three days, students will be given a dedicated introduction to:
 - working with human archaeological remains, 
 - the ethics involved with working with human remains,
 - the main challenges and features of aDNA sequencing data processing,
