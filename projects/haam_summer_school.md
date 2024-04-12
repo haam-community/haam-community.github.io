@@ -4,7 +4,7 @@ title: HAAM-Summer School
 sidebar_link: true
 ---
 
-Coordinators: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de), [Marina Silva](mailto:marina.silva@crick.ac.uk), and [Tina Saupe](mailto:tsaupe@live.de)
+Coordinators: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de) and [Marina Silva](mailto:marina.silva@crick.ac.uk).
 
 📣 The HAAM Summer School for 2024 has been announced! 📣
 
