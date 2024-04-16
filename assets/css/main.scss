@@ -88,6 +88,7 @@ $root-font-family: -apple-system, "Varela Round", Arial, sans-serif !default;
   font-size: 0.85rem;
   color: #000;
   font-weight: bold;
+  font-style: normal;
 }
 
 // Applies to p tags of class "role" WITHIN a div of class "member"
@@ -95,7 +96,7 @@ $root-font-family: -apple-system, "Varela Round", Arial, sans-serif !default;
   font-size: 0.75rem;
   text-transform: uppercase;
   // font-weight: bold; // Our font does not actually have a bold face
-  font-style: normal ;
+  font-style: normal;
 }
 
 table th {
