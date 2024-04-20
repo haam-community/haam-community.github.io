@@ -17,7 +17,7 @@ Coordinators: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía
 
 For more information see [this post](/news/2024/04/05/event/).
 
-⭐️ Applications will open soon! ⭐️
+⭐️ Applications now open until 13th May. Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdXY78xbd_WVImdFv2TwapiFpTTP-Qqy0MOQ9NDfM0HUtAcKA/viewform)!  ⭐️
 
 # Information
 
