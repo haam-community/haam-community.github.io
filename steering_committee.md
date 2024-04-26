@@ -68,7 +68,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class ="member">
 <div class="square"><a href="https://www.eva.mpg.de/tropical-archaeogenomics/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Beatriz_Amorim.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Beatriz Amorim</p>
-<!--<p class="role">ROLE</p>-->
+<p class="role">Webmaster</p>
 <p>University of Porto</p>
 <p>Porto, PT</p>
 <p>MPI-EVA</p>
