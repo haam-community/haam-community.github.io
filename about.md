@@ -16,4 +16,4 @@ for day-to-day advice, help, brainstorming, news, networking, and socialising.
 <!-- TODO: add a mailing list. - [**mailing list**](https://) for announcements, calls, and notices. -->
 - [**twitter**](http://twitter.com/haam_community) or [**mastodon**](https://genomic.social/@haam_community).
 
-to get involved and keep up-to-date!
+to get involved and keep up-to-date or contact us through [email](mailto:haam.community2023@gmail.com)! ⭐️
