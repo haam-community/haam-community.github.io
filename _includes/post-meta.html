@@ -26,4 +26,15 @@
       {% endif %}
     {% endfor %}
   </span>
+  {% if page.doi %}
+    <p>
+      {% comment %}
+        If the post includes a doi in the header, then this is shown with
+        the metadata of the page.
+      {% endcomment %}
+      DOI: <a class="page-doi" href="https://doi.org/{{ page.doi }}">
+        {{ page.doi }}
+      </a>
+    </p>
+  {% endif %}
 </div>
