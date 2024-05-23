@@ -20,7 +20,4 @@ If you’re interested in presenting your ongoing research or be part of our wor
 
 Below you will find a list of all past and upcoming Webinars in the HAAM-tasting series.
 
-| Day (dd/mm/yyyy) | Start Time (CET) | End Time (CET) | Invited Speaker 1 | Invited Speaker 2 | Announcement |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| 20/03/2024 | 09:00 | 13:00 | Tiina Mattila | Maïté Rivollat | [Announcement](/events/2024/03/01/event/) |
-
+<table> <thead> <tr> <th style="width:20%;">Day (dd/mm/yyyy)</th> <th style="width:20%;">Start Time (CET)</th> <th style="width:20%;">End Time (CET)</th> <th style="width:40%;">Invited Speakers</th> <th style="width:10%;">Announcement</th> </tr> </thead> <tbody> <tr> <td>20/03/2024</td> <td>09:00</td> <td>13:00</td> <td> Tiina Mattila<br> Maïté Rivollat </td> <td> <a href="/events/2024/03/01/event/">Announcement</a> </td> </tr> <tr> <td>21/03/2024</td> <td>09:00</td> <td>13:00</td> <td> Kelly Blevins<br> Matthew P. Williams<br> Rui Martiniano<br> Theodore G Schurr </td> <td><a href="/events/2024/05/23/event/">Announcement</a></td> </tr> </tbody> </table>
