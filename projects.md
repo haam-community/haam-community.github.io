@@ -10,18 +10,18 @@ Here we provide a list of projects run by the HAAM community that are currently 
 
 <!-- TOC -->
 
-- [HAAM-Tasting Webinar series](/projects/haam_tasting)
+- [HAAM-Radio Webinar series](/projects/haam_radio)
 - [HAAM Summer School](/projects/haam_summer_school)
 - [HAAM Website](#haam-website)
 
 <!-- /TOC -->
 <!-- /TOC -->
 
-# [HAAM Tasting](/projects/haam_tasting)
+# [HAAM Radio](/projects/haam_radio)
 
-HAAM-Tasting will be an inaugural webinar series with invited speakers, and will allow any young career researcher to present their research.
+HAAM-Radio will be an inaugural webinar series with invited speakers, and will allow any young career researcher to present their research.
 
-Team: [Tina Saupe](mailto:tsaupe@live.de) and [Xavier Roca-Rada](mailto:xavier.rocarada@adelaide.edu.au)
+Team: [Tina Saupe](mailto:tina.saupe@ebc.uu.se) and [Xavier Roca-Rada](mailto:xavier.rocarada@adelaide.edu.au)
 
 
 # [HAAM Summer School](/projects/haam_summer_school)
