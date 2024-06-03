@@ -17,7 +17,7 @@ Coordinators: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía
 
 For more information see [this post](/news/2024/04/05/event/).
 
-⭐️ Applications now open until 13th May. Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdXY78xbd_WVImdFv2TwapiFpTTP-Qqy0MOQ9NDfM0HUtAcKA/viewform)!  ⭐️
+Applications are now closed.
 
 # Information
 
@@ -32,4 +32,7 @@ The programme will include both theoretical and practical sessions. The exact sc
 - how to curate archaeogenetic data,
 - how to perform analyses of genetic relatedness, and population history
 
+# Acknowledgments
+
+The course is planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK) & University College Dublin (IE)). Instructors of the course are volunteers teaching during the period of the summer school. The summer school is supported by Max Planck Institute for Evolutionary Anthropology and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/).
 
