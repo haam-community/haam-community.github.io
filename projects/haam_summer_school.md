@@ -34,5 +34,5 @@ The programme will include both theoretical and practical sessions. The exact sc
 
 # Acknowledgments
 
-The course is planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK) & University College Dublin (IE)). Instructors of the course are volunteers teaching during the period of the summer school. The summer school is supported by Max Planck Institute for Evolutionary Anthropology and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/).
+The course is planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK), University College Dublin (IE) & University of Zurich (CH)). Instructors of the course are volunteers teaching during the period of the summer school. The summer school is supported by Max Planck Institute for Evolutionary Anthropology and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/).
 
