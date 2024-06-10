@@ -4,7 +4,7 @@ title: Constitution
 sidebar_link: true
 ---
 
-<img src="/assets/media/HAAM_Blue.svg" class="center" width="60%" >
+<img src="/assets/media/HAAM_Blue.svg" class="center" width="80%" >
 
 # Quick Summary
 
