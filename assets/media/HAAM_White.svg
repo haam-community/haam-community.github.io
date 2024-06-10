@@ -3,8 +3,8 @@
 
 <svg
    width="37mm"
-   height="26mm"
-   viewBox="0 0 37 26"
+   height="12mm"
+   viewBox="0 0 37 12"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="cm"
      showgrid="true"
-     inkscape:zoom="2.5645732"
-     inkscape:cx="79.740364"
-     inkscape:cy="24.565491"
+     inkscape:zoom="5.2550009"
+     inkscape:cx="49.191238"
+     inkscape:cy="46.431962"
      inkscape:window-width="1920"
      inkscape:window-height="999"
      inkscape:window-x="0"
@@ -64,10 +64,11 @@
        id="g50"
        transform="matrix(0.6741016,0,0,0.6741016,-1.2120764,19.026132)" />
     <g
-       id="g4"
-       transform="translate(-0.44239128,-0.36946937)">
+       id="g1"
+       transform="translate(-3.5723827e-7,-7.0000003)">
       <g
-         id="g3">
+         id="g3"
+         transform="translate(-0.44239128,-0.36946937)">
         <path
            style="fill:#ffffff;stroke:#ffffff;stroke-width:1.02387px;stroke-linecap:round;stroke-linejoin:round"
            inkscape:connector-curvature="0"
@@ -88,7 +89,8 @@
            class="cls-3" />
       </g>
       <g
-         id="g2">
+         id="g2"
+         transform="translate(-0.44239128,-0.36946937)">
         <g
            data-name="Ebene 1-2"
            id="g63"
