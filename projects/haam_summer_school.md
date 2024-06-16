@@ -10,14 +10,13 @@ Coordinators: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía
 
 ## At a glance:
 
-- **When:** 📅 _17th - 19th June 2024_
-- **Where:** 🌐 _Online_
+- **Website:** 🌐 [https://haam-community.github.io/haam-summer-school/](https://haam-community.github.io/haam-summer-school/)
+- **When:** 📅 _Annually_
+- **Where:** 📍 _Online_
 - **Price:** 💰 _Free_
-- **Target audience:** 🧑‍🔬🧑‍💻 Students and early career researchers
+- **Target audience:** 🧑‍🔬🧑‍💻 _Students and early career researchers_
 
-For more information see [this post](/news/2024/04/05/event/).
-
-Applications are now closed.
+For more information on the HAAM Summer School 2024, see [this post](/news/2024/04/05/event/).
 
 # Information
 
@@ -34,5 +33,5 @@ The programme will include both theoretical and practical sessions. The exact sc
 
 # Acknowledgments
 
-The course is planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK), University College Dublin (IE) & University of Zurich (CH)). Instructors of the course are volunteers teaching during the period of the summer school. The summer school is supported by Max Planck Institute for Evolutionary Anthropology and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/).
+This year's course is planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK), University College Dublin (IE) & University of Zurich (CH)). Instructors of the course are volunteers teaching during the period of the summer school. The summer school is supported by Max Planck Institute for Evolutionary Anthropology and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/).
 
