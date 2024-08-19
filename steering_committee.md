@@ -69,8 +69,6 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="square"><a href="https://www.eva.mpg.de/tropical-archaeogenomics/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Beatriz_Amorim.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Beatriz Amorim</p>
 <p class="role"><a href="mailto:haam.community2023+webmaster@gmail.com">Webmaster</a></p>
-<p>University of Porto</p>
-<p>Porto, PT</p>
 <p>MPI-EVA</p>
 <p>Leipzig, DE</p>
 <!-- <p><b><a href="mailto:haam.community2023+webmaster@gmail.com">Contact</a></b></p> -->
@@ -82,11 +80,11 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Xavier-Roca-Rada" target="_blank"><img src="{{ "/assets/media/profile_pictures/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Xavier Roca-Rada</p>
-<!--<p class="role">ROLE</p>-->
+<p class="role"><a href="mailto:haam.community2023+socialmedia@gmail.com">Social Media Team</a></p>
+<p>Brown University</p>
+<p>Providence, USA</p>
 <p>ACAD, University of Adelaide</p>
 <p>Adelaide, AU</p>
-<p>University of Coimbra</p>
-<p>Coimbra, PT</p>
 </div>
 
 <div class ="member">
