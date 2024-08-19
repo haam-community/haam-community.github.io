@@ -150,3 +150,4 @@ The engagement officers are responsible for coming up with new initiatives (proj
 ## IDEA (Inclusion, Diversity, Equity, and Accessibility) Coordinator (NEW!)
 
 We aim to help create a space where everyone feels respected, included, and empowered. We're here as a point of contact for any concerns, suggestions, or ideas related to these topics. If you encounter any issues—a problem, an incident, or an act of aggression—please don’t hesitate to contact Epifanía Arango via [Slack](https://haam-community.slack.com/team/U0574JT58RJ) or [email](mailto:epifaniarango@gmail.com).
+
