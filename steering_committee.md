@@ -81,10 +81,10 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="square"><a href="https://www.researchgate.net/profile/Xavier-Roca-Rada" target="_blank"><img src="{{ "/assets/media/profile_pictures/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Xavier Roca-Rada</p>
 <p class="role"><a href="mailto:haam.community2023+socialmedia@gmail.com">Social Media Team</a></p>
+<p>Brown University</p>
+<p>Providence, USA</p>
 <p>ACAD, University of Adelaide</p>
 <p>Adelaide, AU</p>
-<p>University of Coimbra</p>
-<p>Coimbra, PT</p>
 </div>
 
 <div class ="member">
