@@ -83,7 +83,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 HAAM Safety Office (IDEA):
 
-- [Epifania Arango](mailto:epifaniarango@gmail.com) (ES/EN, University of Zürich, Zürich, [IDEA Coordinator](/steering_committee.md#idea-inclusion-diversity-equity-and-accessibility-coordinator-new)
+- [Epifania Arango](mailto:epifaniarango@gmail.com) (ES/EN/FR/GE, University of Zürich, Zürich, [IDEA Coordinator](/steering_committee.md#idea-inclusion-diversity-equity-and-accessibility-coordinator-new)
 
 <!--### 9. License and attribution -->
 ### 8. License and attribution
