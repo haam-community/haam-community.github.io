@@ -91,6 +91,10 @@ The social media team is responsible for the outreach of the community, by tweet
 
 The engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known in the community, as well as outside the community together with the media team. As well as suggesting potential funding sources for the initiative, by engaging with the treasurer team.
 
+### IDEA (Inclusion, Diversity, Equity, and Accessibility) team 
+
+The IDEA's coordinators' primary objective is to establish an atmosphere where every individual feels appreciated, included, and empowered. They are your primary contact for any concerns, suggestions, or ideas related to these areas. If you encounter challenges—including conflicts, incidents, or acts of aggression do not hesitate to reach out the current [coordinators](/steering_committee.md#roles).
+
 <!-- ### Time in Office
 
 The Steering Committee will be in office for a period of two years, after which a new committee will be chosen. Roles are decided collectively at the start of a new term.
@@ -105,3 +109,6 @@ Any member can propose amendments they wish to see to the Constitution by contac
 
 
 Wednesday 14th of February 2024
+
+Updated on Monday, 19th of August 2024.
+

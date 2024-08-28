@@ -71,21 +71,19 @@ If you are subject to or witness unacceptable behaviour, or have any other conce
 
 Additionally, organizers are available to help attendees engage with local law enforcement or to otherwise help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
+For general matters, regardless of whether they are related to a specific event or not, [Epifania Arango](mailto:epifaniarango@gmail.com) is available as your contact point. Reach out to them for any queries, suggestions, or proposals regarding respect, inclusion, and personal empowerment.
+
 ## 7. Scope
 
 We expect all participants (contributors, paid or otherwise, and other guests) to abide by this Code of Conduct in all community venues - online and in-person - as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behaviour occurring outside the scope of community activities when such behaviour has the potential to adversely affect the safety and well-being of community members.
 
-<!--
 ### 8. Contact info
 
-HAAM Safety Office
+HAAM Safety Office (IDEA):
 
-- Laura Lacher (DE/EN, MPI-EVA, Leipzig, <email here>)
-- Thiseas C. Lamnidis (GR/EN, MPI-EVA, Leipzig, <email here>)
-- Tina Saupe (DE/EN, Uppsala University, Uppsala, <email_here>)
--->
+- [Epifania Arango](mailto:epifaniarango@gmail.com) (ES/EN/FR/GE, University of Zürich, Zürich, [IDEA Coordinator](/steering_committee.md#idea-inclusion-diversity-equity-and-accessibility-coordinator-new)
 
 <!--### 9. License and attribution -->
 ### 8. License and attribution

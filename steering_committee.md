@@ -90,7 +90,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Epifania_Arango_Isaza.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Epifanía Arango Isaza</p>
-<!--<p class="role">ROLE</p>-->
+<p class="role"><a href="mailto:epifaniarango@gmail.com">IDEA Coordinator</a></p>
 <p>University of Zurich</p>
 <p>Zurich, CH</p>
 </div>
@@ -146,3 +146,8 @@ The social media team is responsible for the outreach of the community, by tweet
 ## Engagement team
 
 The engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known in the community, as well as outside the community together with the media team. As well as suggesting potential funding sources for the initiative, by engaging with the treasurer team.
+
+## IDEA (Inclusion, Diversity, Equity, and Accessibility) Coordinator (NEW!)
+
+We aim to help create a space where everyone feels respected, included, and empowered. We're here as a point of contact for any concerns, suggestions, or ideas related to these topics. If you encounter any issues—a problem, an incident, or an act of aggression—please don’t hesitate to contact Epifanía Arango via [Slack](https://haam-community.slack.com/team/U0574JT58RJ) or [email](mailto:epifaniarango@gmail.com).
+
