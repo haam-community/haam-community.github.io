@@ -83,10 +83,9 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 HAAM Safety Office (IDEA):
 
-- [Epifania Arango](mailto:epifaniarango@gmail.com) (ES/EN/FR/GE, University of Zürich, Zürich, [IDEA Coordinator](/steering_committee.md#idea-inclusion-diversity-equity-and-accessibility-coordinator-new)
+- [Epifania Arango](mailto:epifaniarango@gmail.com) (ES/EN/FR/DE, University of Zürich, Zürich, [IDEA Coordinator](/steering_committee.md#idea-inclusion-diversity-equity-and-accessibility-coordinator-new)
 
-<!--### 9. License and attribution -->
-### 8. License and attribution
+### 9. License and attribution
 
 This is modified after the Code of Conduct distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) and [Conf Code of Conduct](https://confcodeofconduct.com/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
