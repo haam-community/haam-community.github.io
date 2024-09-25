@@ -21,7 +21,7 @@ Here we provide a list of projects run by the HAAM community that are currently 
 
 HAAM-Radio will be an inaugural webinar series with invited speakers, and will allow any young career researcher to present their research.
 
-Team: [Tina Saupe](mailto:tina.saupe@ebc.uu.se) and [Xavier Roca-Rada](mailto:xavier.rocarada@adelaide.edu.au)
+Team: [Tina Saupe](mailto:tina.saupe@ebc.uu.se) and [Xavier Roca-Rada](mailto:xavier_roca_rada@brown.edu)
 
 
 # [HAAM Summer School](/projects/haam_summer_school)
