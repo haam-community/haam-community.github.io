@@ -23,9 +23,9 @@ ____________________________________________________________________
 
 <div id="line23">
   <h2>Other communities:</h2>
-  <p>If we are not the community you are looking for, check out other 
-    <a href="https://www.isbarch.org/affiliations-and-initiatives" target="_blank" rel="noopener noreferrer">ISBA-related communities</a> 
-    working with ancient biomolecules or related research questions:
+  <p>You might also be interested in these other bioarchaeological communities associated with
+    <a href="https://www.isbarch.org/affiliations-and-initiatives" target="_blank" rel="noopener noreferrer">ISBA</a> 
+    :
   </p>
 
   <ul>
