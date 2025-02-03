@@ -39,7 +39,7 @@ ____________________________________________________________________
       <a href="https://paasta-community.github.io/about/" target="_blank" rel="noopener noreferrer">Palaeoproteomics And Archaeology, Society for Techniques and Advances (PAASTA) Community</a>: An ECR-led community of researchers working with palaeoproteomics, the study of ancient proteins. An open and supportive environment committed to promoting and facilitating collaborative and open science!
     </li>
     <li>
-      <a href="https://www.spaam-community.org/about/" target="_blank" rel="noopener noreferrer">Standards, Precautions, and Advances in Ancient Metagenomics (SPAAM) Community</a>: a community of researchers focusing on ancient metagenomics. SPAAM supports open science initiatives to find solutions to common challenges and obstacles in the field. SPAAM sponsors collaborative projects, summer schools, a chat channel, and a yearly workshop.
+      <a href="https://www.spaam-community.org/about/" target="_blank" rel="noopener noreferrer">Standards, Precautions, and Advances in Ancient Metagenomics (SPAAM) Community</a>: a community of researchers focusing on ancient metagenomics. SPAAM supports open science initiatives to find solutions to common challenges and obstacles in the field. SPAAM sponsors collaborative projects, summer schools, a chat space, and a yearly workshop.
     </li>
   </ul>
 </div>
