@@ -11,13 +11,17 @@ In the future, we plan to organise training workshops, as well as collaborative 
 
 Please join us on our:
 
-- [**chat channel**](https://matrix.to/#/#haam-community:archaeo.social)
+- [**chat channel**](https://matrix.to/#/#haam-community:archaeo.social)*
 for day-to-day advice, help, brainstorming, news, networking, and socialising.
 <!-- TODO: add a mailing list. - [**mailing list**](https://) for announcements, calls, and notices. -->
 <!-- - [**instagram**]() -->
 - [**bluesky**](https://bsky.app/profile/haam-community.bsky.social) and [**mastodon**](https://genomic.social/@haam_community).
 
 to get involved and keep up-to-date or contact us through [email](mailto:haam.community2023@gmail.com)! ⭐️
+
+
+
+<small>*For step-by-step instructions on how to sign-up please click [here](https://www.isbarch.org/chat).</small>
 
 ____________________________________________________________________
 
