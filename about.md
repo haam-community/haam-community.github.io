@@ -21,7 +21,7 @@ to get involved and keep up-to-date or contact us through [email](mailto:haam.co
 
 
 
-<small>*For instructions on how to sign-up please click [here](https://www.isbarch.org/chat).</small>
+<small>*For step-by-step instructions on how to sign-up please click [here](https://www.isbarch.org/chat).</small>
 
 ____________________________________________________________________
 
