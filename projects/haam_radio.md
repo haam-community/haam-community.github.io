@@ -14,7 +14,7 @@ Each webinar focuses on open research questions of one particular geographical r
 - The first part are invited speakers introducing the theme of the current webinar and who have accepted to present their research to community members as well as others interested to get an insight into our ongoing research projects of the human past.
 - The second part of the webinar focuses on short presentations of (early career) researchers.
 
-If you’re interested in presenting your ongoing research or be part of our working group, please send us an email to the coordinators, or write to us on [slack](https://join.slack.com/t/haam-community/shared_invite/zt-1xoeh4d42-ZzuAWVTyQpKoFmuezBTdMA). 
+If you’re interested in presenting your ongoing research or be part of our working group, please send us an email to the coordinators, or write to us on [Element](https://matrix.to/#/#haam-community:archaeo.social). 
 
 # Webinar catalogue
 
