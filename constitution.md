@@ -8,9 +8,9 @@ sidebar_link: true
 
 # Quick Summary
 
-HAAM is an international and open community of researchers interested in studying human population history, ancestry, and mobility through ancient DNA. HAAM is affiliated with the International Society of Biomolecular Archaeology
+HAAM is an international and open community of researchers interested in studying human population history, ancestry, and mobility through ancient DNA. HAAM is affiliated with the International Society of Biomolecular Archaeology (ISBA).
 
-- Our primary community space is on Slack, and we also have an annual conference and other online events.
+- Our primary community space is on a chat workspace in Element (Matrix) supported by ISBA, and we also have an annual conference and other online events.
 
 - All career stages are invited, but the emphasis is on providing a welcoming space for early-career researchers.
 
@@ -25,14 +25,14 @@ HAAM is an international and open community of researchers interested in studyin
 
 HAAM stands for Human Ancient DNA, Ancestry, and Mobility. We are a community of researchers from around the world focusing on studying human population history through ancient DNA.
 
-We aim to openly share knowledge and experience to find solutions to common challenges and obstacles that the field faces, primarily within online community spaces (Slack). We run various collaborative projects for the benefit of the whole community and to progress the field including an annual conference for early career researchers. We have various events throughout the year with cycling organisation committees to improve networking.
+We aim to openly share knowledge and experience to find solutions to common challenges and obstacles that the field faces, primarily within online community spaces (Element). We run various collaborative projects for the benefit of the whole community and to progress the field including an annual conference for early career researchers. We have various events throughout the year with cycling organisation committees to improve networking.
 
 The idea of HAAM originated in 2023, with the first community announcement taking place during the International Society for Biomolecular Archaeology biannual conference in Tartu, Estonia. HAAM was inspired by the communities built by SPAAM and PAASTA. It has been designed to be an open, supportive community led by early career researchers to promote collaborative and open science within the field of human archaeogenetics. We have been associated with the International Society of Biomolecular Archaeology since our inception in 2023.
 
 
 ## Location 
 
-Our main community space is Slack. We also gather either in-person or online for an annual conference and online for various events. We keep information about the community archived on our website, along with information on how to get involved.
+Our main community space is a chat platform called Element (Matrix) supported by ISBA, and hosting other affiliate groups. We also gather either in-person or online for an annual conference and online for various events. We keep information about the community archived on our website, along with information on how to get involved.
 
 ## Membership
 
@@ -76,7 +76,7 @@ Vice-Chair: Will support the Chair and fill in when the Chair is not available. 
 
 Ideally, the Chair and Vice-Chair should come from different institutions!
 
-Secretary: Takes meeting minutes, sends them out via slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (i.e. keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
+Secretary: Takes meeting minutes, sends them out via Element when they are ready, makes sure that assignments are noted. Organisational responsibilities (i.e. keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
 
 ### Treasurer team
 
@@ -110,5 +110,5 @@ Any member can propose amendments they wish to see to the Constitution by contac
 
 Wednesday 14th of February 2024
 
-Updated on Monday, 19th of August 2024.
+Updated on Monday, 2nd of February 2025.
 

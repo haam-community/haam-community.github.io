@@ -132,7 +132,7 @@ Formed by the chair and the secretary. Responsible for ensuring the committee fu
 
 - **Vice-Chair**: Will support the Chair and fill in when the Chair is not available. Distribution of work can be discussed between the Chair and Vice-Chair. 
 
-- **Secretary**: Takes meeting minutes, sends them out via slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (i.e. keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
+- **Secretary**: Takes meeting minutes, sends them out via Element when they are ready, makes sure that assignments are noted. Organisational responsibilities (i.e. keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
 
 ## Treasurer team
 
@@ -149,5 +149,5 @@ The engagement officers are responsible for coming up with new initiatives (proj
 
 ## IDEA (Inclusion, Diversity, Equity, and Accessibility) Coordinator
 
-We aim to help create a space where everyone feels respected, included, and empowered. We're here as a point of contact for any concerns, suggestions, or ideas related to these topics. If you encounter any issues—a problem, an incident, or an act of aggression—please don’t hesitate to contact Epifanía Arango via [Slack](https://haam-community.slack.com/team/U0574JT58RJ) or [email](mailto:epifaniarango@gmail.com).
+We aim to help create a space where everyone feels respected, included, and empowered. We're here as a point of contact for any concerns, suggestions, or ideas related to these topics. If you encounter any issues—a problem, an incident, or an act of aggression—please don’t hesitate to contact Epifanía Arango via <!--[Element](https://haam-community.slack.com/team/U0574JT58RJ) or--> [email](mailto:epifaniarango@gmail.com).
 
