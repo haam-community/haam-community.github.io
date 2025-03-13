@@ -4,7 +4,7 @@ title: HAAM-Summer School
 sidebar_link: true
 ---
 
-Coordinators: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com), [Laura Lacher](mailto:laura_lacher@eva.mpg.de) and [Marina Silva](mailto:marina.silva@crick.ac.uk).
+Coordinators: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com) and [Marina Silva](mailto:marina.silva@crick.ac.uk).
 
 📣 The HAAM Summer School for 2025 has been announced! 📣
 
@@ -33,5 +33,8 @@ The programme will include both theoretical and practical sessions. The exact sc
 
 # Acknowledgments
 
-This year's course is planned by active researchers of the HAAM-community (including The Francis Crick Institute (UK), MPI-EVA (DE), Globe Institute (DK), University College Dublin (IE) & University of Zurich (CH)). Instructors of the course are volunteers teaching during the period of the summer school. The summer school is supported by Max Planck Institute for Evolutionary Anthropology and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/).
+This year’s course is planned by active researchers of the HAAM-community (including **The Francis Crick Institute (UK)**, **MPI-EVA (DE)**, **University of Lausanne (CH)** & **University of Wisconsin (USA)**. Instructors of the course are volunteers teaching during the period of the summer school. The summer school is supported by Max Planck Institute for Evolutionary Anthropology, [Adelphi Genetics Forum](https://adelphigenetics.org/) and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/) .
 
+<p  align="left">
+<img src="{{ "/assets/media/AGF_Logo.png" | relative_url }}" alt="Adelphi Genetics Forum Logo" >
+</p>
