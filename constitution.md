@@ -27,7 +27,7 @@ HAAM stands for Human Ancient DNA, Ancestry, and Mobility. We are a community of
 
 We aim to openly share knowledge and experience to find solutions to common challenges and obstacles that the field faces, primarily within online community spaces (Element). We run various collaborative projects for the benefit of the whole community and to progress the field including an annual conference for early career researchers. We have various events throughout the year with cycling organisation committees to improve networking.
 
-The idea of HAAM originated in 2023, with the first community announcement taking place during the International Society for Biomolecular Archaeology biannual conference in Tartu, Estonia. HAAM was inspired by the communities built by SPAAM and PAASTA. It has been designed to be an open, supportive community led by early career researchers to promote collaborative and open science within the field of human archaeogenetics. We have been associated with the International Society of Biomolecular Archaeology since our inception in 2023.
+The idea of HAAM originated in 2023, with the first community announcement taking place during the International Society for Biomolecular Archaeology biannual conference in Tartu, Estonia. HAAM was inspired by other communities such as SPAAM and has been designed to be an open, supportive community led by early career researchers to promote collaborative and open science within the field of human archaeogenetics. We have been associated with the International Society of Biomolecular Archaeology since our inception in 2023.
 
 
 ## Location 
