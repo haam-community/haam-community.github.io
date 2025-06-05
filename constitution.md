@@ -103,12 +103,20 @@ The Steering Committee will be in office for a period of two years, after which 
 
 Community members will be encouraged to volunteer when the term for the current Steering Committee is reaching an end. The volunteers should choose specific positions within the Steering Committee. In the event of multiple volunteers for the same position, one candidate among them will be elected during a community meeting. If a team lacks volunteers, the current officers will nominate a person to substitute them. Ideally, positions will be filled by early career researchers. -->
 
+### Regulations for the election to become a member of the Steering committee
+
+The election of members to the steering committee is based on a so-called ***50:50 rolling steering committee***, meaning that every year, half of the members are replaced with newly elected members. One member can be re-elected for a maximum of two periods (each period is one year in length). After an election, the current and new members will meet and decide on the roles within the steering committee. The steering committee of the Human Ancient DNA, Ancestry, and Mobility (HAAM-) community currently consists of a management team (chair, co-chair, and secretary) and an organisation team (treasurer, engagement, and social media team). The new management team should have at least one member of the current steering committee. Members of the organisation team have to select a leader for their team without involving the management team. 
+
+<p  align="middle">
+<img src="{{ "assets/media/election_scheme.png" | relative_url }}" alt="Logo Meeting" >
+</p>
+
 ### Amending the Constitution
 
 Any member can propose amendments they wish to see to the Constitution by contacting either the Chair or Vice-Chair. Proposed changes will be reviewed by the Steering Committee and voted on by the community during a general meeting. 
 
 
-Wednesday 14th of February 2024
+Wednesday 14th of February 2024.
 
-Updated on Monday, 2nd of February 2025.
+Updated on Monday, 5th of June 2025.
 
