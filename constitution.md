@@ -108,7 +108,7 @@ Community members will be encouraged to volunteer when the term for the current 
 The election of members to the steering committee is based on a so-called ***50:50 rolling steering committee***, meaning that every year, half of the members are replaced with newly elected members. One member can be re-elected for a maximum of two periods (each period is one year in length). After an election, the current and new members will meet and decide on the roles within the steering committee. The steering committee of the Human Ancient DNA, Ancestry, and Mobility (HAAM-) community currently consists of a management team (chair, co-chair, and secretary) and an organisation team (treasurer, engagement, and social media team). The new management team should have at least one member of the current steering committee. Members of the organisation team have to select a leader for their team without involving the management team. 
 
 <p  align="middle">
-<img src="{{ "assets/media/election_scheme.png" | relative_url }}" alt="Logo Meeting" >
+<img src="{{ "assets/media/election_scheme.png" | relative_url }}" alt="Election Scheme" >
 </p>
 
 ### Amending the Constitution
@@ -116,7 +116,9 @@ The election of members to the steering committee is based on a so-called ***50:
 Any member can propose amendments they wish to see to the Constitution by contacting either the Chair or Vice-Chair. Proposed changes will be reviewed by the Steering Committee and voted on by the community during a general meeting. 
 
 
-Wednesday 14th of February 2024.
 
-Updated on Monday, 5th of June 2025.
+
+Wednesday, 14th of February 2024.
+
+Updated on Thursday, 5th of June 2025.
 
