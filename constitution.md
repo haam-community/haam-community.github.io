@@ -117,7 +117,6 @@ Any member can propose amendments they wish to see to the Constitution by contac
 
 
 
-
 Wednesday, 14th of February 2024.
 
 Updated on Thursday, 5th of June 2025.
