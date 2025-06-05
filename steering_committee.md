@@ -83,8 +83,6 @@ They contain div class "member" blocks that have the picture of each member foll
 <p class="role"><a href="mailto:haam.community2023+socialmedia@gmail.com">Social Media Team</a></p>
 <p>Brown University</p>
 <p>Providence, USA</p>
-<p>ACAD, University of Adelaide</p>
-<p>Adelaide, AU</p>
 </div>
 
 <div class ="member">
@@ -95,13 +93,6 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Zurich, CH</p>
 </div>
 
-<div class ="member">
-<div class="square"><a href="https://www.eva.mpg.de/de/archaeogenetics/staff/laura-lacher/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Laura_Lacher.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Laura Lacher</p>
-<!--<p class="role">ROLE</p>-->
-<p>MPI-EVA</p>
-<p>Leipzig, DE</p>
-</div>
 
 </div>
 
