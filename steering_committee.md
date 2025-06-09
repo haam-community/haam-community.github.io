@@ -36,10 +36,8 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/558828" target="_blank"><img src="{{ "/assets/media/profile_pictures/Miren_Iraeta_Orbegozo.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Miren Iraeta Orbegozo</p>
 <p class="role"><a href="mailto:haam.community2023+management@gmail.com">Vice-Chair</a></p>
-<p>GLOBE Institute</p>
-<p>Copenhagen, DK</p>
-<p>University College Dublin</p>
-<p>Dublin, IE</p>
+<p>University of Lausanne</p>
+<p>Lausanne, CH</p>
 <!-- <p><b><a href="mailto:haam.community2023+management@gmail.com">Contact</a></b></p> -->
 </div>
 
@@ -89,8 +87,8 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Epifania_Arango_Isaza.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Epifanía Arango Isaza</p>
 <p class="role"><a href="mailto:epifaniarango@gmail.com">IDEA Coordinator</a></p>
-<p>University of Zurich</p>
-<p>Zurich, CH</p>
+<p>University of Wisconsin</p>
+<p>Madison, US</p>
 </div>
 
 
