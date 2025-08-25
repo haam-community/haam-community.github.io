@@ -56,7 +56,9 @@ The constitution (this document) outlines the structure and information about th
 
 ## Definition - Steering Committee
 
-The Steering Committee is an executive board that manages the daily operations of the community and provides support, guidance and oversight of particular issues or projects within the context of the community. 
+The Steering Committee is an executive board of 8-10 people that manages the daily operations of the community and provides support, guidance and oversight of particular issues or projects within the context of the community. 
+
+Members are elected into the Steering Committee with yearly elections, described in the dedicated section below.
 
 The tasks of the Steering Committee involve brainstorming and proposing new initiatives and helping new initiatives to get off the ground, by increasing engagement and support for HAAM members and events, helping with ongoing organisation efforts, publicization of HAAM, and sourcing funds for the maintenance of HAAM.
 
@@ -95,23 +97,42 @@ The engagement officers are responsible for coming up with new initiatives (proj
 
 The IDEA's coordinators' primary objective is to establish an atmosphere where every individual feels appreciated, included, and empowered. They are your primary contact for any concerns, suggestions, or ideas related to these areas. If you encounter challenges—including conflicts, incidents, or acts of aggression do not hesitate to reach out the current [coordinators](/steering_committee.md#roles).
 
-<!-- ### Time in Office
+## Steering committee election procedures
 
-The Steering Committee will be in office for a period of two years, after which a new committee will be chosen. Roles are decided collectively at the start of a new term.
+The election of new members to the steering committee (SC) is based on a ***50% rolling election system***.
 
-### How are Steering Committee members chosen?
+### Quick info
 
-Community members will be encouraged to volunteer when the term for the current Steering Committee is reaching an end. The volunteers should choose specific positions within the Steering Committee. In the event of multiple volunteers for the same position, one candidate among them will be elected during a community meeting. If a team lacks volunteers, the current officers will nominate a person to substitute them. Ideally, positions will be filled by early career researchers. -->
+- At least 50% of the current committee (4-5 spaces) up for election each year.
+- The **term** of a committee member is 2 years.
+- A specific constellation of SC members is called a **period**, and lasts 1 year.
+- SC members are elected for a **2-year term**.
+  - SC members can step down after 1 year, if they choose.
+  - SC members wishing to stay longer than 2 years need to be re-elected.
+  <!-- - A member can be elected for a maximum of two terms. -->
+- The specific roles of SC members are decided once per period.
 
-### Regulations for the election to become a member of the Steering committee
+Every year, elections take place where *at least* 50% of the current SC members are replaced with newly-elected SC members.
+In each election cycle, at least **one of the members of the Management team** (Chair, Vice-Chair, Secretary) must **remain through the next committee period**.
 
-The election of members to the steering committee is based on a so-called ***50:50 rolling steering committee***, meaning that every year, half of the members are replaced with newly elected members. One member can be re-elected for a maximum of two periods (each period is one year in length). After an election, the re-elected and newly elected members will meet and decide on the roles within the steering committee. The new management team should have at least one member of the current steering committee. Members of the organisation team have to select a leader for their team without involving the management team. 
+The community votes on the volunteers running for election with a simple confirmation vote (Yes/No to each person).
+Volunteers receiving less than 50% approval from the community members are considered **unsuccessful**.
+The remaining volunteers are ranked by approval percentage, and the top *N* volunteers are considered successful, with *N* being the number of open steering committee positions.
+
+Successfully-elected SC members join the steering committee for a **2-year term**.
+SC members who wish to continue being part of the steering committee past those 2 years need to be **re-elected**.
+SC members are allowed to step down early, but only during the regular elections (i.e. after one year/period minimum).
+<!-- A member may be re-elected for a **maximum of two terms** (equivalent to 4 years, assuming full terms). -->
+
+Once the election results are finalised, the SC members meet and decide on everyone's teams and projects for that period.
+Each SC **period lasts 1 year**.
+The respective project teams then meet with the members of that team during the previous period to exchange know-how and hand off responsibilities (if necessary).
 
 <p  align="middle">
 <img src="{{ "/assets/media/election_scheme.png" | relative_url }}" alt="election scheme" >
 </p>
 
-### Amending the Constitution
+## Amending the Constitution
 
 Any member can propose amendments they wish to see to the Constitution by contacting either the Chair or Vice-Chair. Proposed changes will be reviewed by the Steering Committee and voted on by the community during a general meeting. 
 
