@@ -18,8 +18,8 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Tina Saupe</p>
 <p class="role"><a href="mailto:haam.community2023+secretary@gmail.com">Secretary</a></p>
 <p class="role"><a href="mailto:haam.community2023+socialmedia@gmail.com">Social Media Team Leader</a></p>
-<p>Uppsala University</p>
-<p>Uppsala, SE</p>
+<p>University of Turku</p>
+<p>Turku, FI</p>
 <!-- <p><b><a href="mailto:haam.community2023+secretary@gmail.com">Contact</a></b></p> -->
 </div>
 
