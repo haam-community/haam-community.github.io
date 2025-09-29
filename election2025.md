@@ -22,7 +22,7 @@ CAGT, UMR-5288, CNRS/University of Toulouse, Toulouse, France
 
 My name is Anna-Lena Titze. I am currently pursuing a PhD in palaeogenetics at the Centre for Anthropobiology and Genetics (CAGT) in Toulouse. Originally from Germany, I studied biology in Würzburg, focusing on electrophysiology and biochemistry. I then pursued an MSc in Anthropology in Mainz, where I gained my first experience in ancient DNA research. The ability to recover DNA from dead individuals and reconstruct their life histories has captivated me from the beginning. I was an Erasmus student at the Globe Institute in Copenhagen, where I completed a thesis on the genomic ancestry of 17th/18th-century Svalbard whalers. For my PhD ,I am looking at the Neolithic of Southern France. My work aims to uncover patterns of ancestry and relatedness at several archaeological sites. I had the privilege to be involved in the last two summer schools organized by HAAM. This experience made me realize the importance of professional communities. I would like to run as a candidate for one of the positions of the steering committee, both to learn more about ancestry and mobility, and to help the community grow. A mentoring scheme could help HAAM to gain new members and support researchers during their early careers.
 
-<!-- Aurore Gaultier -->
+<!-- Aurore Galtier -->
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/election_candidates/Aurore_Galtier.jpg" | relative_url }}" alt="Avatar" /></a></div>
 Advanced DNA Sequencing Techniques and Evolutionary Genomics, Archaeogenetics and Evolutionary Genomics, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany
 
