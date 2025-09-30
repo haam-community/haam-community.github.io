@@ -2,6 +2,7 @@
 layout: page
 title: About us
 sidebar_link: true
+sidebar_sort_order: 1
 ---
 
 We are an international and open community of researchers interested in studying human population history, ancestry, and mobility through ancient DNA.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HAAM-Summer School
-sidebar_link: true
+sidebar_link: false
 ---
 
 Coordinators: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com) and [Marina Silva](mailto:marina.silva@crick.ac.uk).

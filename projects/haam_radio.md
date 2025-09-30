@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HAAM-Radio Webinar series
-sidebar_link: true
+sidebar_link: false
 ---
 
 Coordinators: [Tina Saupe](mailto:tina.saupe@ebc.uu.se) and [Xavier Roca-Rada](mailto:xavier.rocarada@adelaide.edu.au)
