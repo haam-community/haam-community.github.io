@@ -2,6 +2,7 @@
 layout: page
 title: Constitution
 sidebar_link: true
+sidebar_sort_order: 9
 ---
 
 <img src="/assets/media/HAAM_Blue.svg" class="center" width="80%" >

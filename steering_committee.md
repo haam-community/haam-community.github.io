@@ -2,6 +2,7 @@
 layout: page
 title: Steering Committee
 sidebar_link: true
+sidebar_sort_order: 7
 ---
 
 <!-- Admin Roles -->

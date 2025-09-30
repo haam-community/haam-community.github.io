@@ -2,6 +2,7 @@
 layout: page
 title: Code of Conduct
 sidebar_link: true
+sidebar_sort_order: 8
 ---
 
 ## TL;DR

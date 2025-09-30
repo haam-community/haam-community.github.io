@@ -113,3 +113,54 @@ table th {
   margin-top: 1rem;
 
 }
+
+// The following CSS styling allows the creation of an `image-33-text-66-container`, which gives an image 33% width and the given text 66%
+
+.image-33-text-66-container {
+  display: flex;
+  align-items: center; /* Align top edges */
+  column-gap: 1rem; /* Space between image and text */
+  row-gap: 0rem;    /* Space between image and text in mobile mode horizontal*/
+  border-top: 1px solid #ccc; /* adds a light grey line above instances*/
+  padding-top: 1rem;            /* optional spacing before the line between instances */
+  margin-top: 1rem;             /* optional spacing after the line between instances */
+  margin-bottom: 1rem;
+}
+
+/* Remove border from the first one */
+.image-text-container:first-child {
+    border-top: none;
+    padding-top: 0; /* Optional: remove extra space */
+    margin-top: 0;  /* Optional: remove extra space */
+}
+
+.image-33-text-66-container img {
+  display: block;
+  max-width: 300px;
+  width: 33%;       /* one-third of container */
+  height: auto;     /* keep aspect ratio */
+  object-fit: cover;
+  margin: 0rem;
+}
+
+.image-33-text-66-container .text-content {
+  width: 66%;       /* two-thirds of container */
+  display: flex;               /* make the text content itself flex */
+  flex-direction: column;      /* stack text lines vertically */
+  justify-content: center;     /* vertically center all text inside */
+  text-align: center;
+  white-space: pre-wrap;
+  mergin: 0%;
+}
+
+// This makes the container mobile friendly when a screen is longer than wide.
+@media (max-width: 768px) {
+  .image-33-text-66-container {
+    flex-direction: column;
+  }
+
+  .image-33-text-66-container img,
+  .image-33-text-66-container .text-content {
+    width: 100%;
+  }
+}
