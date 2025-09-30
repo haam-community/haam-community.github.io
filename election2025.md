@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HAAM Election 2025
+title: ⚠ HAAM Election 2025 ⚠
 sidebar_link: true
 ---
 
