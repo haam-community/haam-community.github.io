@@ -6,7 +6,9 @@ sidebar_link: true
 
 From the **1st to the 10th of October**, the Human Ancient DNA, Ancestry and Mobility community is electing new members of the steering committee for a term of one year (November 2025-2026). 
 
-Meet the candidates below, then cast your vote **[here](https://haam-community.github.io/election2025/)**!
+Meet the candidates below, then cast your vote **[here](https://forms.gle/6PKTRkqKn57J13UCA)**!
+
+Voting will be open between **1st Oct 2025 00:00** and **10th Oct 2025 23:59** (all times in CET).
 
 ## Candidates
 
