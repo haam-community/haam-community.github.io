@@ -11,24 +11,31 @@
   </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
   <p class="lead">{{ site.description }}</p>
   </header>
+  
+  {% comment }
+  <!-- 
+  Dev Note: Adding sidebar links here manually is deprecated.
+  To add a new sidebar link, simply set `sidebar_link: true` in the page header.
+  An additional attribure `sidebar_sort_order` can be set to fix the order of a page. 
+  A page without a given order will be shown above all other pages.
 
-<a href="/about">About us</a> 
-<a href="/category/news">News</a>
-<a href="/category/blog">Blog</a>
-<a href="/projects">Projects</a>
-<a href="/category/events">Events</a>
-<!-- <a href="/category/publications">Publications</a> -->
-<a href="/steering_committee">Steering Committee</a>
-<a href="/code-of-conduct">Code of Conduct</a>
-<a href="/constitution">Constitution</a>
-<a href="/support-and-acknowledgements">Support and Acknowledgements</a>
+  1   About us
+  2   News
+  3   Blog
+  4   Projects
+  5   Publications (inactive)
+  6   Events
+  7   Steering Committee
+  8   Code of Conduct
+  9   Constitution
+  10  Support and Acknowledgements
+     -->
+  {% endcomment}
+  {% include merged-links-and-categories.html %}
 
-
-  </nav>
   {% if site.version %}
   <span class="site-version">Currently v{{ site.version }}</span>
   {% endif %}
-  {% include sidebar-icon-links.html %}
   
   <p class='copyright'> &copy; {{ site.time | date: '%Y' }}.
   <a href="{{ "/LICENSE.md" | relative_url }}">MIT License.</a>

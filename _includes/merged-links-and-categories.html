@@ -1,0 +1,36 @@
+{% comment %}
+Collect all pages with `sidebar_link: true`
+{% endcomment %}
+{% assign nav_pages = site.pages | where: "sidebar_link", true %}
+
+{% comment %}
+Collect all category pages (layout == "category")
+{% endcomment %}
+{% assign category_pages = site.pages | where: "layout", "category" %}
+
+{% comment %}
+Merge nav pages + category pages into a single array
+{% endcomment %}
+{% assign merged = nav_pages | concat: category_pages %}
+
+{% comment %}
+Sort merged list by `sidebar_sort_order`
+Pages without `sidebar_sort_order` will appear first in Liquid's sort order
+{% endcomment %}
+{% assign sorted = merged | sort: "sidebar_sort_order" %}
+
+{% comment %}
+Render links
+Use .page-link class for normal pages, .category-link class for categories
+{% endcomment %}
+{% for node in sorted %}
+  {% if node.title %}
+    {% if node.layout == "category" %}
+      <a class="category-link{% if page.url == node.url %} active{% endif %}"
+         href="{{ node.url | relative_url }}">{{ node.title }}</a>
+    {% else %}
+      <a class="page-link{% if page.url == node.url %} active{% endif %}"
+         href="{{ node.url | relative_url }}">{{ node.title }}</a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
