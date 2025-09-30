@@ -16,7 +16,6 @@ Here we provide a list of projects run by the HAAM community that are currently 
 - [HAAM Website](#haam-website)
 
 <!-- /TOC -->
-<!-- /TOC -->
 
 # [HAAM Radio](/projects/haam_radio)
 
