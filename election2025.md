@@ -68,7 +68,7 @@ I'm Sanni Peltola, a geneticist from Finland working on ancient human DNA data f
 <!-- Youssef Tawfik -->
 <div class="image-33-text-66-container">
     <img src="{{ "/assets/media/election_candidates/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" />
-    <div class="text-content"><h4>Youssef_Tawfik</h4>Palaeogenetics group,
+    <div class="text-content"><h4>Youssef Tawfik</h4>Palaeogenetics group,
     Institute of Organismic and Molecular Evolution,
     Johannes Gutenberg University of Mainz,
     Mainz, Germany</div>
