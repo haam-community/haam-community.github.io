@@ -13,8 +13,10 @@ Click here to start a GitHub Codespace with the full Jekyll environment:
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/haam-community/haam-community.github.io)
 
-Once the Codespace starts, it will build the site and serve it locally so you can preview your changes, by automatically running `bundle exec jekyll serve`.
-  - If that does not work, you can try running `bundle exec jekyll serve` manually.
+> ⚠️ Although the opened window says you "Codespace usage for this repository is paid for by @user", using codespaces for public repositories is (currently) free, so you can ignore that note. 
+
+Once the Codespace starts, it will build the site and serve it locally so you can preview your changes.
+  - If the preview functionality does not work, you can try running `bundle exec jekyll serve` manually.
 
 ## Quick Start - Fast
 
