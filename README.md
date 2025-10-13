@@ -15,9 +15,16 @@ Click here to start a GitHub Codespace with the full Jekyll environment:
 
 > ⚠️ Although the opened window says you "Codespace usage for this repository is paid for by @user", using codespaces for public repositories is (currently) free, so you can ignore that note.
 
-1. Click "Create codespace"
+1. Click "Create codespace". This can take a minute or so to be fully set up.
 2. Once the Codespace starts, it will build the site and serve it locally so you can preview your changes.
+   - A popup will appear in the bottom right of your screen. Click on "Open in Browser" to open a preview of your changes as a separate browser tab.
+
+     <img width="481" height="141" alt="image" src="https://github.com/user-attachments/assets/fc39b596-99b3-421c-9e2f-5bc476b9d987" />
+
    - If the preview functionality does not work, you can try running `bundle exec jekyll serve` manually.
+4. At the bottom of the codespace, click on `main`, and create a new branch for your changes.
+5. Make changes, commit them, and push them to the repository (via the "Source Control" tab on the left sidebar of the codespace).
+6. Close the codespace, and open a Pull Request with your changes.
 
 ## Quick Start - Fast
 
