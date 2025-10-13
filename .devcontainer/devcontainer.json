@@ -3,7 +3,7 @@
 {
 	"name": "Jekyll",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye"
+	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -11,8 +11,15 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
-	// Uncomment the next line to run commands after the container is created.
-	"postCreateCommand": "bundle exec jekyll serve"
+	// Commands to be ran afer the container is created.
+	// This forces the sass-embedded version to be the one specified in Gemfile.
+	// This ensures that the page will build even after deprecation of some functions that currently throw warnings.
+	// Affected functions `@import`, `lighten()`, and `darken()`
+	"postCreateCommand": "bundle update sass-embedded",
+
+
+	// Run commands after the container on startup. This will keep rendering the website and serving it for preview.
+	"postStartCommand": "bundle exec jekyll serve",
 
 	// Configure tool-specific properties.
 	// "customizations": {},
