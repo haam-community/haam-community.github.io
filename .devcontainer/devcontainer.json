@@ -8,6 +8,14 @@
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
+	// The following section mounts pre-installed cached Gems into the container.
+	// This could shave off a bit of the build time for the container, in cases where the required gems have been previously installed.
+	// Since we rarely change the dependencies, this should actually apply to most cases.
+	"mounts": [
+		"source=${localEnv:HOME}/.bundle,target=/home/vscode/.bundle,type=bind,consistency=cached",
+		"source=${localEnv:HOME}/.gem,target=/home/vscode/.gem,type=bind,consistency=cached"
+	],
+
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 
