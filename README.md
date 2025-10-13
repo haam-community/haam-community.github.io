@@ -7,6 +7,15 @@ The website is powered by [GitHub Pages](https://pages.github.com/) + [Jekyll](h
 To develop this website, you should following the [GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 Many components also adopted from the [sedaDNA](https://sedadna.github.io) society and the [SPAAM community](https://spaam-community.github.io/).
 
+## Quick Start - Best
+
+Click here to start a GitHub Codespace with the full Jekyll environment:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/haam-community/haam-community.github.io)
+
+Once the Codespace starts, it will build the site and serve it locally so you can preview your changes, by automatically running `bundle exec jekyll serve`.
+  - If that does not work, you can try running `bundle exec jekyll serve` manually.
+
 ## Quick Start - Fast
 
 Standard - edit via github, and wait for website to re-render to test:
@@ -22,18 +31,6 @@ Standard - edit via github, and wait for website to re-render to test:
 - Once you've selected all the files to publish, type in a brief description in the `commit message` box
 - Press the `☑` button to publish!
 - Shut the tab to close the workspace
-
-## Quick Start - Best
-
-Using GitPod and with real-time rendering of website before pushing
-
-> 💡 Development and testing without pushing, and all without having to install anything on your laptop
-
-- Press the gitpod button on the repository (assuming extension installed)
-- Make a change
-- ~~Run `bundle exec jekyll serve`, open link~~ Edit: this will be run in the background now for you on GitPod startup!!
-- Press 'open preview' on prompt (or press Ports: 4000 in bottom right, then split pane icon in sidebar)
-    - If you accidently close the preview or 'simple browser' tab, click ports, copy and the URL displayed, open the command pallette (e.g. `ctrl`/`cmd` + `shift` + `p`), type `simple browser` and then paste in the URL to the URL bar.
 
 ## Quick start - Hardcore
 
