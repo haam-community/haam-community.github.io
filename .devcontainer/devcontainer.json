@@ -1,0 +1,29 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/jekyll
+{
+	"name": "Jekyll",
+	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
+
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	// "features": {},
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// "forwardPorts": [],
+
+	// Commands to be ran afer the container is created.
+	// This forces the sass-embedded version to be the one specified in Gemfile.
+	// This ensures that the page will build even after deprecation of some functions that currently throw warnings.
+	// Affected functions `@import`, `lighten()`, and `darken()`
+	"postCreateCommand": "bundle update sass-embedded",
+
+
+	// Run commands after the container on startup. This will keep rendering the website and serving it for preview.
+	"postStartCommand": "bundle exec jekyll serve",
+
+	// Configure tool-specific properties.
+	// "customizations": {},
+
+	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+	// "remoteUser": "root"
+}
