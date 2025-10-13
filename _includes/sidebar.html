@@ -35,6 +35,8 @@
   <span class="site-version">Currently v{{ site.version }}</span>
   {% endif %}
   
+  {% include sidebar-icon-links.html %}
+  
   <p class='copyright'> &copy; {{ site.time | date: '%Y' }}.
   <a href="{{ "/LICENSE.md" | relative_url }}">MIT License.</a>
   </p>
