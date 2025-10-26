@@ -141,3 +141,41 @@ The engagement officers are responsible for coming up with new initiatives (proj
 
 We aim to help create a space where everyone feels respected, included, and empowered. We're here as a point of contact for any concerns, suggestions, or ideas related to these topics. If you encounter any issues—a problem, an incident, or an act of aggression—please don’t hesitate to contact Epifanía Arango via <!--[Element]() or--> [email](mailto:epifaniarango@gmail.com).
 
+
+## Past Members
+
+Below is a list of all past members of the HAAM Steering Committee, who helped create, establish, and improve our community over the years.
+
+<!-- The past member block defines which profiles will appear in the same group in the final website.-->
+<div class = "past_member_block"> 
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/past_members/Miren_Iraeta_Orbegozo.jpg" | relative_url }}" alt="Avatar" />
+<p>Miren Iraeta Orbegozo</p>
+<p>2023-2025</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/past_members/Marina_Silva.jpg" | relative_url }}" alt="Avatar" />
+<p>Marina Silva</p>
+<p>2023-2025</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/past_members/Adam_Ben_Rohrlach.jpg" | relative_url }}" alt="Avatar" />
+<p>Adam Ben Rohrlach</p>
+<p>2023-2025</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/past_members/Epifania_Arango_Isaza.jpg" | relative_url }}" alt="Avatar" />
+<p>Epifanía Arango Isaza</p>
+<p>2023-2025</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/past_members/Laura_Lacher.jpg" | relative_url }}" alt="Avatar" />
+<p>Laura Lacher</p>
+<p>2023-2025</p>
+</div>
+
+</div>
