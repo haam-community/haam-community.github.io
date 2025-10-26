@@ -164,3 +164,35 @@ table th {
     width: 100%;
   }
 }
+
+.past_member_block {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
+
+.past_member {
+  display: block;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.past_member img {
+  border-radius: 50%; //This makes the image a circle
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  object-position: center top; // If the picture is larger/smaller than the avatar space, crop keeping the middle-top part.
+  display: grid;
+  margin: auto;
+}
+
+.past_member p {
+  text-align: center;
+  font-size: 0.7rem;
+  margin-bottom: 0;
+  display: grid;
+  color: #555555;
+  font-style: italic;
+}
