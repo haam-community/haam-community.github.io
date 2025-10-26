@@ -21,7 +21,6 @@ They contain div class "member" blocks that have the picture of each member foll
 <p class="role"><a href="mailto:haam.community2023+socialmedia@gmail.com">Social Media Team Leader</a></p>
 <p>University of Turku</p>
 <p>Turku, FI</p>
-<!-- <p><b><a href="mailto:haam.community2023+secretary@gmail.com">Contact</a></b></p> -->
 </div>
 
 <div class ="member">
@@ -30,39 +29,10 @@ They contain div class "member" blocks that have the picture of each member foll
 <p class="role"><a href="mailto:haam.community2023+management@gmail.com">Chair</a></p>
 <p>MPI-EVA</p>
 <p>Leipzig, DE</p>
-<!-- <p><b><a href="mailto:haam.community2023+management@gmail.com">Contact</a></b></p> -->
-</div>
-
-<div class ="member">
-<div class="square"><a href="https://globe.ku.dk/staff-list/?pure=en/persons/558828" target="_blank"><img src="{{ "/assets/media/profile_pictures/Miren_Iraeta_Orbegozo.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Miren Iraeta Orbegozo</p>
-<p class="role"><a href="mailto:haam.community2023+management@gmail.com">Vice-Chair</a></p>
-<p>University of Lausanne</p>
-<p>Lausanne, CH</p>
-<!-- <p><b><a href="mailto:haam.community2023+management@gmail.com">Contact</a></b></p> -->
 </div>
 
 </div>
 <div class="avatar">
-
-<div class ="member">
-<div class="square"><a href="https://www.crick.ac.uk/research/find-a-researcher/marina-soares-da-silva" target="_blank"><img src="{{ "/assets/media/profile_pictures/Marina_Silva.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Marina Silva</p>
-<p class="role"><a href="mailto:haam.community2023+engagement@gmail.com">Engagement Team Leader</a></p>
-<p>The Francis Crick Institute</p>
-<p>London, UK</p>
-</div>
-
-<div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Adam-Rohrlach" target="_blank"><img src="{{ "/assets/media/profile_pictures/Adam_Ben_Rohrlach.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Adam Ben Rohrlach</p>
-<p class="role"><a href="mailto:haam.community2023+treasurer@gmail.com">Treasurer</a></p>
-<p>MPI-EVA</p>
-<p>Leipzig, DE</p>
-<p>University of Adelaide</p>
-<p>Adelaide, AU</p>
-<!-- <p><b><a href="mailto:haam.community2023+treasurer@gmail.com">Contact</a></b></p> -->
-</div>
 
 <div class ="member">
 <div class="square"><a href="https://www.eva.mpg.de/tropical-archaeogenomics/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Beatriz_Amorim_2.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -70,7 +40,6 @@ They contain div class "member" blocks that have the picture of each member foll
 <p class="role"><a href="mailto:haam.community2023+webmaster@gmail.com">Webmaster</a></p>
 <p>MPI-EVA</p>
 <p>Leipzig, DE</p>
-<!-- <p><b><a href="mailto:haam.community2023+webmaster@gmail.com">Contact</a></b></p> -->
 </div>
 
 </div>
@@ -84,15 +53,68 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Providence, USA</p>
 </div>
 
+</div>
+
+<!--  
+TODO: The members below will need to be moved into the right spots above to keep with the formatting.
+i.e. top row is always Secretary, Chair, Vice -chair, then the rest are split across 2-3 rows so they look nice visually.
+ -->
+<div class="avatar">
+
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Epifania_Arango_Isaza.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Epifanía Arango Isaza</p>
-<p class="role"><a href="mailto:epifaniarango@gmail.com">IDEA Coordinator</a></p>
-<p>University of Wisconsin</p>
-<p>Madison, US</p>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Alicia_Muriel.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Alicia Muriel</p>
+<p class="role">ROLE</p>
+<p>Centre for Palaeogenetics, Stockholm University</p>
+<p>Stockholm, SE</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Anna-Lena_Titze.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Anna-Lena Titze</p>
+<p class="role">ROLE</p>
+<p>CAGT, UMR-5288, CNRS</p>
+<p>University of Toulouse</p>
+<p>Toulouse, FR</p>
 </div>
 
 
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Aurore_Galtier.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Aurore Galtier</p>
+<p class="role">ROLE</p>
+<p>MPI-EVA</p>
+<p>Leipzig, DE</p>
+</div>
+
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Cecilia_Padilla.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Cecilia Padilla</p>
+<p class="role">ROLE</p>
+<p>University of Cambridge</p>
+<p>Cambridge, GB</p>
+</div>
+
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Sanni_Peltola.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Sanni Peltola</p>
+<p class="role">ROLE</p>
+<p>University of Turku</p>
+<p>Turku, FI</p>
+<p>MPI-EVA</p>
+<p>Leipzig, DE</p>
+</div>
+
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Youssef Tawfik</p>
+<p class="role">ROLE</p>
+<p>Johannes Gutenberg University of Mainz.</p>
+<p>Mainz, DE</p>
+</div>
 </div>
 
 <!-- 
