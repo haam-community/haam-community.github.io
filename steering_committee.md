@@ -18,7 +18,6 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="square"><a href="https://www.katalog.uu.se/empinfo/?id=N23-275" target="_blank"><img src="{{ "/assets/media/profile_pictures/Tina_Saupe.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Tina Saupe</p>
 <p class="role"><a href="mailto:haam.community2023+secretary@gmail.com">Secretary</a></p>
-<p class="role"><a href="mailto:haam.community2023+socialmedia@gmail.com">Social Media Team Leader</a></p>
 <p>University of Turku</p>
 <p>Turku, FI</p>
 </div>
@@ -31,6 +30,16 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Leipzig, DE</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Cecilia_Padilla.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Cecilia Padilla</p>
+<p class="role">Vice-Chair</p>
+<p>University of Cambridge</p>
+<p>Cambridge, GB</p>
+</div>
+
+
+
 </div>
 <div class="avatar">
 
@@ -42,23 +51,61 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Leipzig, DE</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Sanni_Peltola.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Sanni Peltola</p>
+<p class="role">Engagement Team Leader</p>
+<p>University of Turku</p>
+<p>Turku, FI</p>
+<p>MPI-EVA</p>
+<p>Leipzig, DE</p>
+</div>
+
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Youssef Tawfik</p>
+<p class="role">Engagement Team</p>
+<p>Johannes Gutenberg University of Mainz.</p>
+<p>Mainz, DE</p>
+</div>
+</div>
+
+
 </div>
 <div class="avatar">
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Xavier-Roca-Rada" target="_blank"><img src="{{ "/assets/media/profile_pictures/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Xavier Roca-Rada</p>
-<p class="role"><a href="mailto:haam.community2023+socialmedia@gmail.com">Social Media Team</a></p>
+<p class="role"><a href="mailto:haam.community2023+socialmedia@gmail.com">Social Media Team Leader</a></p>
 <p>Brown University</p>
 <p>Providence, USA</p>
 </div>
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Alicia_Muriel.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Alicia Muriel</p>
+<p class="role">Social Media Team</p>
+<p>Centre for Palaeogenetics, Stockholm University</p>
+<p>Stockholm, SE</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Aurore_Galtier.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Aurore Galtier</p>
+<p class="role">Social Media Team</p>
+<p>MPI-EVA</p>
+<p>Leipzig, DE</p>
+</div>
+
 
 </div>
 
 <!--  
 TODO: The members below will need to be moved into the right spots above to keep with the formatting.
 i.e. top row is always Secretary, Chair, Vice -chair, then the rest are split across 2-3 rows so they look nice visually.
- -->
+
 <div class="avatar">
 
 <div class ="member">
@@ -117,6 +164,7 @@ i.e. top row is always Secretary, Chair, Vice -chair, then the rest are split ac
 </div>
 </div>
 
+-->
 <!-- 
 NEW MEMBER TEMPLATE
 -->
