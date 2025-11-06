@@ -21,7 +21,7 @@ Here we provide a list of projects run by the HAAM community that are currently 
 
 HAAM-Radio will be an inaugural webinar series with invited speakers, and will allow any young career researcher to present their research.
 
-Team: [Tina Saupe](mailto:tina.saupe@ebc.uu.se) and [Xavier Roca-Rada](mailto:xavier_roca_rada@brown.edu)
+Team: Xavier Roca-Rada, and Cecilia Padilla.
 
 
 # [HAAM Summer School](/projects/haam_summer_school)
@@ -39,11 +39,11 @@ Website: https://haam-community.github.io/haam-summer-school
 Supported by: 
 -->
 
-Team: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com) and [Marina Silva](mailto:marina.silva@crick.ac.uk).
+Team: Aurore Galtier, Youssef Tawfik, Beatriz Amorim, Anna-Lena Titze.
 
 
 # HAAM Website
 
 This website will serve as a hub for the latest updates on projects initiated by our steering committee. We also plan to announce ongoing initiatives and upcoming events, and provide working material and supportive information on Human Ancient DNA related analysis.
 
-Team: [Thiseas Christos Lamnidis](mailto:thiseas_christos_lamnidis@eva.mpg.de) and [Beatriz Amorim](mailto:amorimsba@gmail.com).
+Team: Thiseas Christos Lamnidis and Beatriz Amorim.
