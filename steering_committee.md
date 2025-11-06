@@ -38,9 +38,8 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Cambridge, GB</p>
 </div>
 
-
-
 </div>
+
 <div class="avatar">
 
 <div class ="member">
@@ -61,7 +60,6 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Leipzig, DE</p>
 </div>
 
-
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Youssef Tawfik</p>
@@ -69,10 +67,9 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Johannes Gutenberg University of Mainz.</p>
 <p>Mainz, DE</p>
 </div>
-</div>
-
 
 </div>
+
 <div class="avatar">
 
 <div class ="member">
@@ -98,7 +95,6 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>MPI-EVA</p>
 <p>Leipzig, DE</p>
 </div>
-
 
 </div>
 
