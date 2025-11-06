@@ -60,12 +60,25 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Leipzig, DE</p>
 </div>
 
+</div>
+
+<div class="avatar">
+
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Youssef Tawfik</p>
 <p class="role">Engagement Team</p>
 <p>Johannes Gutenberg University of Mainz.</p>
 <p>Mainz, DE</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Anna-Lena_Titze.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Anna-Lena Titze</p>
+<p class="role">Engagement Team</p>
+<p>CAGT, UMR-5288, CNRS</p>
+<p>University of Toulouse</p>
+<p>Toulouse, FR</p>
 </div>
 
 </div>
@@ -97,86 +110,6 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 </div>
-
-<!--  
-TODO: The members below will need to be moved into the right spots above to keep with the formatting.
-i.e. top row is always Secretary, Chair, Vice -chair, then the rest are split across 2-3 rows so they look nice visually.
-
-<div class="avatar">
-
-<div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Alicia_Muriel.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Alicia Muriel</p>
-<p class="role">ROLE</p>
-<p>Centre for Palaeogenetics, Stockholm University</p>
-<p>Stockholm, SE</p>
-</div>
-
-<div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Anna-Lena_Titze.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Anna-Lena Titze</p>
-<p class="role">ROLE</p>
-<p>CAGT, UMR-5288, CNRS</p>
-<p>University of Toulouse</p>
-<p>Toulouse, FR</p>
-</div>
-
-
-<div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Aurore_Galtier.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Aurore Galtier</p>
-<p class="role">ROLE</p>
-<p>MPI-EVA</p>
-<p>Leipzig, DE</p>
-</div>
-
-
-<div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Cecilia_Padilla.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Cecilia Padilla</p>
-<p class="role">ROLE</p>
-<p>University of Cambridge</p>
-<p>Cambridge, GB</p>
-</div>
-
-
-<div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Sanni_Peltola.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Sanni Peltola</p>
-<p class="role">ROLE</p>
-<p>University of Turku</p>
-<p>Turku, FI</p>
-<p>MPI-EVA</p>
-<p>Leipzig, DE</p>
-</div>
-
-
-<div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Youssef Tawfik</p>
-<p class="role">ROLE</p>
-<p>Johannes Gutenberg University of Mainz.</p>
-<p>Mainz, DE</p>
-</div>
-</div>
-
--->
-<!-- 
-NEW MEMBER TEMPLATE
--->
-<!--
-<div class="avatar">
-
-<div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>NAME</p>
-<p class="role">ROLE</p>
-<p>AFFILIATION</p>
-<p>CITY, COUNTRY</p>
-</div>
-
-</div>
--->
 
 ## Roles:
 
