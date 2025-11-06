@@ -4,7 +4,7 @@ title: HAAM-Summer School
 sidebar_link: false
 ---
 
-Coordinators: Aurore Galtier, Youssef Tawfik, Beatriz Amorim, Anna-Lena Titze..
+Coordinators: Aurore Galtier, Youssef Tawfik, Beatriz Amorim, Anna-Lena Titze.
 
 The 2026 edition of the HAAM Summer School is being organised. Stay tuned!
 
