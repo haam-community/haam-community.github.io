@@ -53,7 +53,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Sanni_Peltola.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sanni Peltola</p>
-<p class="role">Engagement Team Leader</p>
+<p class="role"><a href="mailto:haam.community2023+engagement@gmail.com">Engagement Team Leader</a></p>
 <p>University of Turku</p>
 <p>Turku, FI</p>
 <p>MPI-EVA</p>

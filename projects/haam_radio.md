@@ -4,7 +4,7 @@ title: HAAM-Radio Webinar series
 sidebar_link: false
 ---
 
-Coordinators: [Tina Saupe](mailto:tina.saupe@ebc.uu.se) and [Xavier Roca-Rada](mailto:xavier.rocarada@adelaide.edu.au)
+Coordinators: Xavier Roca-Rada, Cecilia Padilla.
 
 For up-to-date information follow us on X at [@haam_community](https://twitter.com/HAAM_community) and use the [#HAAM-Radio](https://twitter.com/hashtag/HAAM-Radio). 
 
@@ -24,13 +24,27 @@ Below you will find a list of all past and upcoming Webinars in the HAAM-Radio s
   <thead>
     <tr>
       <th style="width:20%;">Day (dd/mm/yyyy)</th>
-      <th style="width:20%;">Start Time (CET)</th>
-      <th style="width:20%;">End Time (CET)</th>
-      <th style="width:40%;">Invited Speakers</th>
+      <th style="width:15%;">Start Time (CET)</th>
+      <th style="width:15%;">End Time (CET)</th>
+      <th style="width:50%;">Invited Speakers</th>
       <th style="width:10%;">Announcement</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>19/05/2025</td>
+      <td>16:00</td>
+      <td>18:00</td>
+      <td> Jennifer Raff <br> Tomás Gonzáles Zarzar <br> Marisol Espitia-Fajardo <br> Maria Ávila-Arcos </td>
+      <td> <a href="/events/2025/05/19/event/">Announcement</a> </td>
+    </tr>
+    <tr>
+      <td>10/12/2024</td>
+      <td>18:00</td>
+      <td>19:00</td>
+      <td> Camilla Tamburrini <br> Constanza de la Fuente Castro </td>
+      <td> <a href="/events/2024/12/10/event/">Announcement</a> </td>
+    </tr>
     <tr>
       <td>02/10/2024</td>
       <td>12:00</td>

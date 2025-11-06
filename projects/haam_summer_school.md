@@ -4,9 +4,11 @@ title: HAAM-Summer School
 sidebar_link: false
 ---
 
-Coordinators: [Miren Iraeta Orbegozo](mailto:iraeta.miren@gmail.com), [Epifanía Arango](mailto:epifaniarango@gmail.com) and [Marina Silva](mailto:marina.silva@crick.ac.uk).
+Coordinators: Aurore Galtier, Youssef Tawfik, Beatriz Amorim, Anna-Lena Titze.
 
-📣 The HAAM Summer School for 2025 has been announced! 📣
+The 2026 edition of the HAAM Summer School is being organised. Stay tuned!
+
+<!-- 📣 The HAAM Summer School for 2025 has been announced! 📣
 
 ## At a glance:
 
@@ -37,4 +39,4 @@ This year’s course is planned by active researchers of the HAAM-community (inc
 
 <p  align="left">
 <img src="{{ "assets/media/haam-summer-school-2025/AGF_Logo.png" | relative_url }}" alt="Adelphi Genetics Forum Logo" >
-</p>
+</p> -->
