@@ -5,7 +5,7 @@ sidebar_link: true
 sidebar_sort_order: 4
 ---
 
-Since the public launch of the HAAM-community in summer 2023, our community has grown to more than 100 members with 10 founders working in different institutions worldwide. The members of the steering committee have chosen to be part of different working groups focused in developing several projects within this scope.
+Since the public launch of the HAAM-community in summer 2023, our community has grown to more than 100 members with 9 founders working in different institutions worldwide. The members of the steering committee have chosen to be part of different working groups focused in developing several projects within this scope.
 
 Here we provide a list of projects run by the HAAM community that are currently ongoing:
 
