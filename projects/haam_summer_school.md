@@ -6,19 +6,21 @@ sidebar_link: false
 
 Coordinators: Aurore Galtier, Youssef Tawfik, Beatriz Amorim, Anna-Lena Titze.
 
-The 2026 edition of the HAAM Summer School is being organised. Stay tuned!
+<!-- The 2026 edition of the HAAM Summer School is being organised. Stay tuned! -->
 
-<!-- 📣 The HAAM Summer School for 2025 has been announced! 📣
+📣 The HAAM Summer School for 2026 has been announced! 📣
 
 ## At a glance:
 
-- **Website:** 🌐 [https://haam-community.github.io/haam-summer-school/](https://haam-community.github.io/haam-summer-school/)
-- **When:** 📅 _Annually_
+<!-- - **Website:** 🌐 [https://haam-community.github.io/haam-summer-school/](https://haam-community.github.io/haam-summer-school/) -->
+- **When:** 📅 _1st to 5th June 2026_
 - **Where:** 📍 _Online_
 - **Price:** 💰 _Free_
 - **Target audience:** 🧑‍🔬🧑‍💻 _Students and early career researchers_
 
-For more information on the HAAM Summer School 2025, see [this post](/news/2025/03/12/event/).
+**Stay tuned for application dates!**
+
+<!-- For more information on the HAAM Summer School 2025, see [this post](/news/2025/03/12/event/). -->
 
 # Information
 
@@ -33,6 +35,7 @@ The programme will include both theoretical and practical sessions. The exact sc
 - how to curate archaeogenetic data,
 - how to perform analyses of genetic relatedness, and population history
 
+<!--
 # Acknowledgments
 
 This year’s course is planned by active researchers of the HAAM-community (including **The Francis Crick Institute (UK)**, **MPI-EVA (DE)**, **University of Lausanne (CH)** & **University of Wisconsin (USA)**. Instructors of the course are volunteers teaching during the period of the summer school. The summer school is supported by Max Planck Institute for Evolutionary Anthropology, [Adelphi Genetics Forum](https://adelphigenetics.org/) and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/) .
