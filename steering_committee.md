@@ -152,12 +152,6 @@ Below is a list of all past members of the HAAM Steering Committee, who helped c
 <div class = "past_member_block"> 
 
 <div class ="past_member">
-<img src="{{ "/assets/media/profile_pictures/past_members/Adam_Ben_Rohrlach.jpg" | relative_url }}" alt="Avatar" />
-<p>Adam Ben Rohrlach</p>
-<p>2023-2025</p>
-</div>
-
-<div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/past_members/Epifania_Arango_Isaza.jpg" | relative_url }}" alt="Avatar" />
 <p>Epifanía Arango Isaza</p>
 <p>2023-2025</p>
@@ -170,14 +164,20 @@ Below is a list of all past members of the HAAM Steering Committee, who helped c
 </div>
 
 <div class ="past_member">
-<img src="{{ "/assets/media/profile_pictures/past_members/Marina_Silva.jpg" | relative_url }}" alt="Avatar" />
-<p>Marina Silva</p>
+<img src="{{ "/assets/media/profile_pictures/past_members/Miren_Iraeta_Orbegozo.jpg" | relative_url }}" alt="Avatar" />
+<p>Miren Iraeta Orbegozo</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
-<img src="{{ "/assets/media/profile_pictures/past_members/Miren_Iraeta_Orbegozo.jpg" | relative_url }}" alt="Avatar" />
-<p>Miren Iraeta Orbegozo</p>
+<img src="{{ "/assets/media/profile_pictures/past_members/Adam_Ben_Rohrlach.jpg" | relative_url }}" alt="Avatar" />
+<p>Adam Ben Rohrlach</p>
+<p>2023-2025</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/past_members/Marina_Silva.jpg" | relative_url }}" alt="Avatar" />
+<p>Marina Silva</p>
 <p>2023-2025</p>
 </div>
 
