@@ -33,7 +33,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Cecilia_Padilla.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Cecilia Padilla</p>
-<p class="role">Vice-Chair</p>
+<p class="role"><a href="mailto:haam.community2023+management@gmail.com">Vice-Chair</a></p>
 <p>University of Cambridge</p>
 <p>Cambridge, GB</p>
 </div>

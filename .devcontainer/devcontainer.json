@@ -1,10 +1,33 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/jekyll
 {
-	"name": "Jekyll",
-	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/jekyll:2-bullseye",
-
+    // The following block is taken from the jekyll template https://github.com/devcontainers/templates/tree/main/src/jekyll
+    "id": "jekyll",
+    "version": "2.2.2",
+    "name": "Jekyll",
+    "description": "Develop static sites with Jekyll, includes everything you need to get up and running.",
+    "documentationURL": "https://github.com/devcontainers/templates/tree/main/src/jekyll",
+    "publisher": "Dev Container Spec Maintainers",
+    "licenseURL": "https://github.com/devcontainers/templates/blob/main/LICENSE",
+    "options": {
+        "imageVariant": {
+            "type": "string",
+            "description": "Debian OS version (use bookworm, or bullseye on local arm64/Apple Silicon):",
+            "proposals": [
+                "bookworm",
+                "bullseye",
+                "buster"
+            ],
+            "default": "bullseye"
+        }
+    },
+   "platforms": [
+        "Ruby",
+        "Jekyll"
+    ],
+    "optionalPaths": [
+        ".github/*"
+    ],
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
@@ -23,7 +46,7 @@
 	// This forces the sass-embedded version to be the one specified in Gemfile.
 	// This ensures that the page will build even after deprecation of some functions that currently throw warnings.
 	// Affected functions `@import`, `lighten()`, and `darken()`
-	"postCreateCommand": "bundle update sass-embedded",
+	"postCreateCommand": "bundle install",
 
 
 	// Run commands after the container on startup. This will keep rendering the website and serving it for preview.
