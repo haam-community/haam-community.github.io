@@ -4,9 +4,9 @@ title: HAAM-Radio Webinar series
 sidebar_link: false
 ---
 
-Coordinators: Xavier Roca-Rada, Cecilia Padilla.
+Coordinators: Tina Saupe, Xavier Roca-Rada and Cecilia Padilla.
 
-For up-to-date information follow us on X at [@haam_community](https://twitter.com/HAAM_community) and use the [#HAAM-Radio](https://twitter.com/hashtag/HAAM-Radio). 
+For up-to-date information follow us on [**bluesky**](https://bsky.app/profile/haam-community.bsky.social) and use the [#HAAM-Radio](https://bsky.app/hashtag/HAAM-Radio). 
 
 The HAAM-Radio Webinar series (formerly known as HAAM-Tasting) is organised by members of the HAAM-community. We’re an international, open, and engaging working group. We focus on giving (early career) researchers the opportunity to present their research to a wider audience outside of the usual conference environments, and promoting equal representation within the field of ancient human DNA research.
 
