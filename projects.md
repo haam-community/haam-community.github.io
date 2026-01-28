@@ -46,4 +46,4 @@ Team: Anna-Lena Titze, Aurore Galtier, Beatriz Amorim and Youssef Tawfik.
 
 This website will serve as a hub for the latest updates on projects initiated by our steering committee. We also plan to announce ongoing initiatives and upcoming events, and provide working material and supportive information on Human Ancient DNA related analysis.
 
-Team: Beatriz Amorim and Thiseas Christos Lamnidis.
+Team: Beatriz Amorim, Sanni Peltola and Thiseas Christos Lamnidis.
