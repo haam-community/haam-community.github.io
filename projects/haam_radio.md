@@ -16,7 +16,7 @@ Each webinar focuses on open research questions of one particular geographical r
 
 If you’re interested in presenting your ongoing research or be part of our working group, please send us an email to the coordinators, or write to us on [Element](https://matrix.to/#/#haam-community:archaeo.social). 
 
-# Webinar catalogue
+# 🧑‍🏫 Webinar and 💬 Symposia catalogue
 
 Below you will find a list of all past and upcoming Webinars in the HAAM-Radio series.
 
@@ -26,15 +26,33 @@ Below you will find a list of all past and upcoming Webinars in the HAAM-Radio s
       <th style="width:20%;">Day (dd/mm/yyyy)</th>
       <th style="width:15%;">Start Time (CET)</th>
       <th style="width:15%;">End Time (CET)</th>
+      <th style="width:5%;">Type</th>
       <th style="width:50%;">Invited Speakers</th>
       <th style="width:10%;">Announcement</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td>15/06/2026</td>
+      <td>15:00</td>
+      <td>17:00</td>
+      <td><p style="text-align: center;">🧑‍🏫</p></td>
+      <td> Linda Ongaro <br> Bárbara Sousa da Mota <br> Kiran H. Kumar </td>
+      <td> <a href="/events/2026/05/31/event//">Announcement</a> </td>
+    </tr>
+    <tr>
+      <td>28/01/2026</td>
+      <td>15:00</td>
+      <td>17:00</td>
+      <td><p style="text-align: center;">💬</p></td>
+      <td> Cesar Fortes-Lima <br> Oguzhan Parasayan <br> Emmanuel Kipruto Ngetich <br> Flavia Risi <br> Hilde Gunnink <br> Michela Leonardi </td>
+      <td> <a href="/events/2026/05/31/event//">Announcement</a> </td>
+    </tr>
+    <tr>
       <td>19/05/2025</td>
       <td>16:00</td>
       <td>18:00</td>
+      <td><p style="text-align: center;">🧑‍🏫</p></td>
       <td> Jennifer Raff <br> Tomás Gonzáles Zarzar <br> Marisol Espitia-Fajardo <br> Maria Ávila-Arcos </td>
       <td> <a href="/events/2025/05/19/event/">Announcement</a> </td>
     </tr>
@@ -42,6 +60,7 @@ Below you will find a list of all past and upcoming Webinars in the HAAM-Radio s
       <td>10/12/2024</td>
       <td>18:00</td>
       <td>19:00</td>
+      <td><p style="text-align: center;">🧑‍🏫</p></td>
       <td> Camilla Tamburrini <br> Constanza de la Fuente Castro </td>
       <td> <a href="/events/2024/12/10/event/">Announcement</a> </td>
     </tr>
@@ -49,6 +68,7 @@ Below you will find a list of all past and upcoming Webinars in the HAAM-Radio s
       <td>02/10/2024</td>
       <td>12:00</td>
       <td>14:20</td>
+      <td><p style="text-align: center;">🧑‍🏫</p></td>
       <td> Pradiptajati Kusuma <br> Gludhug A. Purnomo <br> Maximilian Larena </td>
       <td> <a href="/events/2024/09/19/event/">Announcement</a> </td>
     </tr>
@@ -56,6 +76,7 @@ Below you will find a list of all past and upcoming Webinars in the HAAM-Radio s
       <td>06/06/2024</td>
       <td>13:00</td>
       <td>15:00</td>
+      <td><p style="text-align: center;">🧑‍🏫</p></td>
       <td> Kelly Blevins<br> Matthew P. Williams<br> Rui Martiniano<br> Theodore G Schurr </td>
       <td><a href="/events/2024/05/23/event/">Announcement</a></td>
     </tr> 
@@ -63,6 +84,7 @@ Below you will find a list of all past and upcoming Webinars in the HAAM-Radio s
       <td>20/03/2024</td>
       <td>09:00</td>
       <td>13:00</td>
+      <td><p style="text-align: center;">🧑‍🏫</p></td>
       <td> Tiina Mattila<br> Maïté Rivollat </td>
       <td> <a href="/events/2024/03/01/event/">Announcement</a> </td>
     </tr>
