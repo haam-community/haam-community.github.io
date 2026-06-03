@@ -72,7 +72,7 @@ If you are subject to or witness unacceptable behaviour, or have any other conce
 
 Additionally, organizers are available to help attendees engage with local law enforcement or to otherwise help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
-For general matters, regardless of whether they are related to a specific event or not, our IDEA corrdinator is available as your contact point. Reach out to them for any queries, suggestions, or proposals regarding respect, inclusion, and personal empowerment.
+For general matters, regardless of whether they are related to a specific event or not, our IDEA coordinator is available as your contact point. Reach out to them for any queries, suggestions, or proposals regarding respect, inclusion, and personal empowerment.
 
 ## 7. Scope
 
@@ -84,7 +84,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 HAAM Safety Office (IDEA):
 
-<!-- - [Epifania Arango](mailto:epifaniarango@gmail.com) (ES/EN/FR/DE), University of Zürich, Zürich, [IDEA Coordinator](/steering_committee.md#idea-inclusion-diversity-equity-and-accessibility-coordinator-new) --!>
+<!-- - [Epifania Arango](mailto:epifaniarango@gmail.com) (ES/EN/FR/DE), University of Zürich, Zürich, [IDEA Coordinator](/steering_committee.md#idea-inclusion-diversity-equity-and-accessibility-coordinator-new) -->
 
 ### 9. License and attribution
 
