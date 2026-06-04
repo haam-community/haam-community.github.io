@@ -66,7 +66,7 @@ The tasks of the Steering Committee involve brainstorming and proposing new init
 The Steering Committee is formed by teams consisting of the managing team: a chair and a secretary, a treasurer team, a social media team and an engagement team. The teams meet on a regular basis to divide responsibilities and set up a communication method that ensures tasks are fulfilled.
 
 <!-- The current members of the Steering Committee can be found 
-[**here**](https://HAAM-community.github.io/steering_committee/): -->
+[**here**](https://haam-community.github.io/steering_committee/): -->
 
 ## Description of the Roles
 
