@@ -12,13 +12,13 @@ Coordinators: Aurore Galtier, Youssef Tawfik, Beatriz Amorim, Anna-Lena Titze.
 
 ## At a glance:
 
-<!-- - **Website:** 🌐 [https://haam-community.github.io/haam-summer-school/](https://haam-community.github.io/haam-summer-school/) -->
+- **Website:** 🌐 [https://haam-community.github.io/haam-summer-school/](https://haam-community.github.io/haam-summer-school/)
 - **When:** 📅 _1st to 5th June 2026_
 - **Where:** 📍 _Online_
 - **Price:** 💰 _Free_
 - **Target audience:** 🧑‍🔬🧑‍💻 _Students and early career researchers_
 
-**Stay tuned for application dates!**
+<!--  **Stay tuned for application dates!** -->
 
 <!-- For more information on the HAAM Summer School 2025, see [this post](/news/2025/03/12/event/). -->
 
