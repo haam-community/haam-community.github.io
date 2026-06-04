@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HAAM-Summer School
+title: HAAM Summer School
 sidebar_link: false
 ---
 
@@ -38,7 +38,7 @@ The programme will include both theoretical and practical sessions. The exact sc
 <!--
 # Acknowledgments
 
-This year’s course is planned by active researchers of the HAAM-community (including **The Francis Crick Institute (UK)**, **MPI-EVA (DE)**, **University of Lausanne (CH)** & **University of Wisconsin (USA)**. Instructors of the course are volunteers teaching during the period of the summer school. The summer school is supported by Max Planck Institute for Evolutionary Anthropology, [Adelphi Genetics Forum](https://adelphigenetics.org/) and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/) .
+This year’s course is planned by active researchers of the HAAM community (including **The Francis Crick Institute (UK)**, **MPI-EVA (DE)**, **University of Lausanne (CH)** & **University of Wisconsin (USA)**. Instructors of the course are volunteers teaching during the period of the summer school. The summer school is supported by Max Planck Institute for Evolutionary Anthropology, [Adelphi Genetics Forum](https://adelphigenetics.org/) and the [International Society of Biomolecular Archaeology](https://www.isbarch.org/) .
 
 <p  align="left">
 <img src="{{ "assets/media/haam-summer-school-2025/AGF_Logo.png" | relative_url }}" alt="Adelphi Genetics Forum Logo" >

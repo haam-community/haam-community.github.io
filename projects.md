@@ -5,13 +5,13 @@ sidebar_link: true
 sidebar_sort_order: 4
 ---
 
-Since the public launch of the HAAM-community in summer 2023, our community has grown to more than 100 members with 9 founders working in different institutions worldwide. The members of the steering committee have chosen to be part of different working groups focused in developing several projects within this scope.
+Since the public launch of the HAAM community in summer 2023, our community has grown to more than 100 members with 9 founders working in different institutions worldwide. The members of the steering committee have chosen to be part of different working groups focused in developing several projects within this scope.
 
 Here we provide a list of projects run by the HAAM community that are currently ongoing:
 
 <!-- TOC -->
 
-- [HAAM-Radio Webinar series](/projects/haam_radio)
+- [HAAM Radio Webinar series](/projects/haam_radio)
 - [HAAM Summer School](/projects/haam_summer_school)
 - [HAAM Website](#haam-website)
 
@@ -19,7 +19,7 @@ Here we provide a list of projects run by the HAAM community that are currently 
 
 # [HAAM Radio](/projects/haam_radio)
 
-HAAM-Radio will be an inaugural webinar series with invited speakers, and will allow any young career researcher to present their research.
+HAAM Radio is a webinar series with invited speakers, designed to be  aplatform for early career researchers to present their work.
 
 Team: Cecilia Padilla, Tina Saupe and Xavier Roca-Rada
 
