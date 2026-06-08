@@ -31,7 +31,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Cecilia_Padilla.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://ceciliapad.github.io/web/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Cecilia_Padilla.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Cecilia Padilla</p>
 <p class="role"><a href="mailto:haam.community2023+management@gmail.com">Vice-Chair</a></p>
 <p>University of Cambridge</p>
@@ -51,7 +51,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Youssef-Tawfik" target="_blank"><img src="{{ "/assets/media/profile_pictures/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Youssef Tawfik</p>
 <p class="role"><a href="mailto:haam.community2023+webmaster@gmail.com">Webmaster</a></p>
 <p>Johannes Gutenberg University of Mainz.</p>
@@ -64,7 +64,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Sanni_Peltola.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Sanni-Peltola" target="_blank"><img src="{{ "/assets/media/profile_pictures/Sanni_Peltola.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sanni Peltola</p>
 <p class="role"><a href="mailto:haam.community2023+engagement@gmail.com">Engagement Team Leader</a></p>
 <p>University of Turku</p>
@@ -74,7 +74,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Anna-Lena_Titze.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://cagt.cnrs.fr/titze-anna-lena/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Anna-Lena_Titze.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Anna-Lena Titze</p>
 <p class="role">Engagement Team</p>
 <p>CAGT, UMR-5288, CNRS</p>
@@ -95,7 +95,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Alicia_Muriel.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Alicia-Muriel" target="_blank"><img src="{{ "/assets/media/profile_pictures/Alicia_Muriel.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Alicia Muriel</p>
 <p class="role">Social Media Team</p>
 <p>Centre for Palaeogenetics, Stockholm University</p>
@@ -103,7 +103,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/Aurore_Galtier.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.eva.mpg.de/de/genetics/advanced-dna-sequencing-techniques/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Aurore_Galtier.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Aurore Galtier</p>
 <p class="role">Social Media Team</p>
 <p>MPI-EVA</p>
