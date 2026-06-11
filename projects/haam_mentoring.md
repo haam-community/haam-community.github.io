@@ -2,8 +2,9 @@
 layout: page
 title: HAAMentoring program
 sidebar_link: false
+page_logo: assets/media/Logo_HAAM_Mentoring_Blue_v1.0.svg
+page_logo_alt: "HAAMentoring program logo"
 ---
-
 Coordinators: Anna-Lena Titze, Sanni Peltola and Youssef Tawfik.
 
 ## At a glance:

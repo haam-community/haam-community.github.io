@@ -2,6 +2,8 @@
 layout: page
 title: HAAM Summer School
 sidebar_link: false
+page_logo: assets/media/Logo_HAAM_Summer_School_Blue_v1.0.svg
+page_logo_alt: "HAAM Summer School logo"
 ---
 
 Coordinators: Aurore Galtier, Youssef Tawfik, Beatriz Amorim, Anna-Lena Titze.

@@ -1,6 +1,35 @@
 ---
 layout: default
 ---
+
+<header class="page-header">
+  <div class="page-header-text">
+    {% include back-link.html %}
+    <h1 class="page-title">{{ page.title }}</h1>
+  </div>
+
+  {% if page.page_logo %}
+    <img src="{{ page.page_logo | relative_url }}"
+         alt="{{ page.page_logo_alt | default: page.title }}"
+         class="page-logo">
+  {% endif %}
+</header>
+
+<div class="content">
+  {{ content }}
+</div>
+
+{% include back-link.html %}
+
+
+
+
+
+
+{% comment %}
+---
+layout: default
+---
 <header>
   {% include back-link.html %}
   <h1 class="page-title">{{ page.title }}</h1>
@@ -9,3 +38,4 @@ layout: default
   {{ content }}
 </div>
 {% include back-link.html %}
+{% endcomment %}
