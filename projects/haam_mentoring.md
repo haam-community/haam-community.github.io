@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HAAM mentoring program
+title: HAAM Mentoring Program
 sidebar_link: false
 page_logo: assets/media/Logo_HAAM_Mentoring_Blue_v1.0.svg
 page_logo_alt: "HAAM mentoring program logo"

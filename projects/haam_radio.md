@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HAAM Radio Webinar series
+title: HAAM Radio
 sidebar_link: false
 page_logo: assets/media/Logo_HAAM_Radio_Blue_v1.0.svg
 page_logo_alt: "HAAM Radio logo"
