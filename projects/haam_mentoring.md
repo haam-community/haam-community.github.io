@@ -1,9 +1,9 @@
 ---
 layout: page
-title: HAAMentoring program
+title: HAAM mentoring program
 sidebar_link: false
 page_logo: assets/media/Logo_HAAM_Mentoring_Blue_v1.0.svg
-page_logo_alt: "HAAMentoring program logo"
+page_logo_alt: "HAAM mentoring program logo"
 ---
 Coordinators: Anna-Lena Titze, Sanni Peltola and Youssef Tawfik.
 
@@ -23,7 +23,7 @@ Coordinators: Anna-Lena Titze, Sanni Peltola and Youssef Tawfik.
 
 # Information
 
-The HAAMentoring program is designed to support Master / PhD students and early-career researchers, to strengthen our community by encouraging dialogue, knowledge sharing and support. The program is based on voluntary engagement and seeks to foster mutual learning, scientific and personal exchange and professional growth. (It is by no means meant to replace a Master / PhD supervisor, nor to provide guidance on the specific content of the doctoral project.)
+The HAAM mentoring program is designed to support Master / PhD students and early-career researchers, to strengthen our community by encouraging dialogue, knowledge sharing and support. The program is based on voluntary engagement and seeks to foster mutual learning, scientific and personal exchange and professional growth. (It is by no means meant to replace a Master / PhD supervisor, nor to provide guidance on the specific content of the doctoral project.)
 
 All mentor-mentee pairings are voluntary and have no supervisory or hierarchical links. Where possible, pairings would aim to bring together people from different institutes to encourage broader exchange. Pairings will be facilitated through an online ‘speed-networking’ format.
 

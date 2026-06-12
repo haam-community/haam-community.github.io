@@ -13,7 +13,7 @@ Here we provide a list of projects run by the HAAM community that are currently 
 
 - [HAAM Radio Webinar series](/projects/haam_radio)
 - [HAAM Summer School](/projects/haam_summer_school)
-- [HAAMentoring](/projects/haam_mentoring)
+- [HAAM mentoring program](/projects/haam_mentoring)
 - [HAAM Website](#haam-website)
 
 <!-- /TOC -->
@@ -43,9 +43,9 @@ Supported by:
 Team: Anna-Lena Titze, Aurore Galtier, Beatriz Amorim and Youssef Tawfik.
 
 
-# [HAAMentoring](/projects/haam_mentoring)
+# [HAAM mentoring program](/projects/haam_mentoring)
 
-The HAAMentoring program is designed to support Master's / PhD students and early career researchers, to strengthen our community by encouraging dialogue, knowledge sharing, and support. 
+The HAAM mentoring program is designed to support Master's / PhD students and early career researchers, to strengthen our community by encouraging dialogue, knowledge sharing, and support. 
 
 The program is based on voluntary engagement and seeks to foster mutual learning, scientific and personal exchange, and professional growth. 
 
