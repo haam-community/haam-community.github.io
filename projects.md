@@ -11,8 +11,9 @@ Here we provide a list of projects run by the HAAM community that are currently 
 
 <!-- TOC -->
 
-- [HAAM Radio Webinar series](/projects/haam_radio)
+- [HAAM Radio](/projects/haam_radio)
 - [HAAM Summer School](/projects/haam_summer_school)
+- [HAAM Mentoring Program](/projects/haam_mentoring)
 - [HAAM Website](#haam-website)
 
 <!-- /TOC -->
@@ -42,8 +43,19 @@ Supported by:
 Team: Anna-Lena Titze, Aurore Galtier, Beatriz Amorim and Youssef Tawfik.
 
 
+# [HAAM Mentoring Program](/projects/haam_mentoring)
+
+The HAAM mentoring program is designed to support Master's / PhD students and early career researchers, to strengthen our community by encouraging dialogue, knowledge sharing, and support. 
+
+The program is based on voluntary engagement and seeks to foster mutual learning, scientific and personal exchange, and professional growth. 
+
+We are preparing the first edition of the program to launch in September 2026.
+
+Team: Anna-Lena Titze, Sanni Peltola and Youssef Tawfik.
+
 # HAAM Website
 
 This website will serve as a hub for the latest updates on projects initiated by our steering committee. We also plan to announce ongoing initiatives and upcoming events, and provide working material and supportive information on Human Ancient DNA related analysis.
 
 Team: Beatriz Amorim, Youssef Tawfik and Thiseas Christos Lamnidis.
+

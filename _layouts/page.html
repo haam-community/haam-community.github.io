@@ -1,11 +1,27 @@
 ---
 layout: default
 ---
-<header>
+
+<header style="margin-bottom: 1.5rem;">
+
   {% include back-link.html %}
+
   <h1 class="page-title">{{ page.title }}</h1>
+
+  {% if page.page_logo %}
+    <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 1rem;">
+      <div style="width: 280px; height: 160px; display: flex; justify-content: center; align-items: center;">
+        <img src="{{ page.page_logo | relative_url }}"
+             alt="{{ page.page_logo_alt | default: page.title }}"
+             style="max-width: 100%; max-height: 100%; object-fit: contain; display: block;">
+      </div>
+    </div>
+  {% endif %}
+
 </header>
+
 <div class="content">
   {{ content }}
 </div>
+
 {% include back-link.html %}
