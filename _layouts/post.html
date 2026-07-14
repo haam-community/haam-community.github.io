@@ -3,6 +3,7 @@ layout: default
 ---
 
 <header>
+  {% include back-link.html %}
   <h1 class="post-title">{{ page.title }}</h1>
   {% if page.subtitle %}
   <h2 class="page-subtitle">{{ page.subtitle }}</h2>
@@ -18,4 +19,5 @@ layout: default
 
   <!-- {% include comments.html %} -->
   {% include related_posts.html %}
+  {% include back-link.html %}
 </div>
