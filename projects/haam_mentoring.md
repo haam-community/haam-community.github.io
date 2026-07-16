@@ -7,13 +7,15 @@ page_logo_alt: "HAAM mentoring program logo"
 ---
 Coordinators: Anna-Lena Titze, Sanni Peltola and Youssef Tawfik.
 
+📣 Applications are now open until August 19th  2026! 📣
+
 ## At a glance:
 
 **When?** 
 
-- Registration will open soon, stay tuned! Until then, you can already fill out our [online survey form](https://docs.google.com/forms/d/e/1FAIpQLSddO3E4WZ6cn9HGYFT_cSR2R3yKFtbUunoRaccL0RN6uynINw/viewform?usp=publish-editor) - NOTE: This is **not** the official registration yet, but an initial questionnaire to help us estimate the overall interest in the program!
+- Registration is now open. You can apply as a [mentee](https://docs.google.com/forms/d/e/1FAIpQLSfvE3yKUMuyIgkTwL8pqB8Mtq9U-_j5A0SM27X4JzfDIajGqg/viewform?usp=publish-editor) or a [mentor](https://docs.google.com/forms/d/e/1FAIpQLScBDpBStNf5jpO830n44ajhHeVpBWcnkagB-E3UgNstRwFTTA/viewform?usp=publish-editor)
 
-- The first edition of the program will officially launch in September 2026
+- The first edition of the program will officially launch in October 2026 (Kick-off meeting October 1st)
 
 **Who is it for?** 
 
