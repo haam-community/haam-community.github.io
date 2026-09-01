@@ -16,7 +16,7 @@ Please join us on our:
 for day-to-day advice, help, brainstorming, news, networking, and socialising.
 <!-- TODO: add a mailing list. - [**mailing list**](https://) for announcements, calls, and notices. -->
 <!-- - [**instagram**]() -->
-- [**bluesky**](https://bsky.app/profile/haam-community.bsky.social) and [**mastodon**](https://genomic.social/@haam_community).
+- [**bluesky**](https://bsky.app/profile/haam-community.bsky.social).
 
 to get involved and keep up-to-date or contact us through [email](mailto:haam.community2023@gmail.com)! ⭐️
 
