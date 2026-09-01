@@ -44,6 +44,9 @@ ____________________________________________________________________
       <a href="https://paasta-community.github.io/about/" target="_blank" rel="noopener noreferrer">Palaeoproteomics And Archaeology, Society for Techniques and Advances (PAASTA) Community</a>: An ECR-led community of researchers working with palaeoproteomics, the study of ancient proteins. An open and supportive environment committed to promoting and facilitating collaborative and open science!
     </li>
     <li>
+      <a href="https://pitaaa-community.github.io/" target="_blank" rel="noopener noreferrer">Practices in Isotopic Techniques and Advancing Applications in Archaeology (PITAAA)</a>: a open global collective of researchers, led by ECRs, dedicated to the advancement of isotopic research and methodologies for archaeological applications. PITAAA promotes international collaboration, methodological advancement, and open science initiatives. PITAAA aims to provide a safe space to foster collaboration and knowledge exchange through hybrid seminar series, annual workshops and online resources/ platforms.
+    </li>
+    <li>
       <a href="https://www.spaam-community.org/about/" target="_blank" rel="noopener noreferrer">Standards, Precautions, and Advances in Ancient Metagenomics (SPAAM) Community</a>: a community of researchers focusing on ancient metagenomics. SPAAM supports open science initiatives to find solutions to common challenges and obstacles in the field. SPAAM sponsors collaborative projects, summer schools, a chat space, and a yearly workshop.
     </li>
   </ul>
