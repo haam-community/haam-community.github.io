@@ -148,7 +148,7 @@ table th {
   display: flex;               /* make the text content itself flex */
   flex-direction: column;      /* stack text lines vertically */
   justify-content: center;     /* vertically center all text inside */
-  text-align: center;
+  text-align: left;
   white-space: pre-wrap;
   mergin: 0%;
 }
