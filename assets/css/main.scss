@@ -153,6 +153,22 @@ table th {
   mergin: 0%;
 }
 
+// Style for the candidates container. image-33-text-66-container where the images are cropped circular.
+.candidate-container {
+  @extend .image-33-text-66-container;
+}
+
+.candidate-container img {
+  border-radius: 50%;
+  object-position: center top;
+  width: 33%;
+  height: auto;
+}
+
+.candidate-container .text-content {
+  text-align: center;
+}
+
 // This makes the container mobile friendly when a screen is longer than wide.
 @media (max-width: 768px) {
   .image-33-text-66-container {
