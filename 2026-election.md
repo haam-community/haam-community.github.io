@@ -31,7 +31,7 @@ I want to use that perspective to help make the school engaging and inclusive fo
 <!-- Erkin Alacamli -->
 <div class="candidate-container">
     <img class="circular_img" src="{{ "/assets/media/profile_pictures/election_candidates/Erkin_Alacamli.jpg" | relative_url }}" alt="Avatar" />
-    <div class="text-content"><h4>Erkin Alacamli</h4> Archaegenomics Group,
+    <div class="text-content"><h4>Erkin Alacamli</h4> Archaeogenomics Group,
 Estonian Biocentre, Institute of Genomics,
 University of Tartu
 Tartu, Estonia</div>
