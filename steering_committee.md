@@ -15,7 +15,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.katalog.uu.se/empinfo/?id=N23-275" target="_blank"><img src="{{ "/assets/media/profile_pictures/Tina_Saupe.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.katalog.uu.se/empinfo/?id=N23-275" target="_blank"><img src="{{ "/assets/media/profile_pictures/S/Tina_Saupe.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Tina Saupe</p>
 <p class="role"><a href="mailto:haam.community2023+secretary@gmail.com">Secretary</a></p>
 <p>University of Turku</p>
@@ -23,7 +23,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/thiseas-christos-lamnidis/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Thiseas_Christos_Lamnidis.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/thiseas-christos-lamnidis/" target="_blank"><img src="{{ "/assets/media/profile_pictures/L/Thiseas_Christos_Lamnidis.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Thiseas Christos Lamnidis</p>
 <p class="role"><a href="mailto:haam.community2023+management@gmail.com">Chair</a></p>
 <p>MPI-EVA</p>
@@ -31,7 +31,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://ceciliapad.github.io/web/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Cecilia_Padilla.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://ceciliapad.github.io/web/" target="_blank"><img src="{{ "/assets/media/profile_pictures/P/Cecilia_Padilla.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Cecilia Padilla</p>
 <p class="role"><a href="mailto:haam.community2023+management@gmail.com">Vice-Chair</a></p>
 <p>University of Cambridge</p>
@@ -43,7 +43,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.eva.mpg.de/tropical-archaeogenomics/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Beatriz_Amorim_2.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.eva.mpg.de/tropical-archaeogenomics/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/A/Beatriz_Amorim.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Beatriz Amorim</p>
 <p class="role"><a href="mailto:haam.community2023+treasurer@gmail.com">Treasurer</a></p>
 <p>MPI-EVA</p>
@@ -51,7 +51,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Youssef-Tawfik" target="_blank"><img src="{{ "/assets/media/profile_pictures/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Youssef-Tawfik" target="_blank"><img src="{{ "/assets/media/profile_pictures/T/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Youssef Tawfik</p>
 <p class="role"><a href="mailto:haam.community2023+webmaster@gmail.com">Webmaster</a></p>
 <p>Johannes Gutenberg University of Mainz.</p>
@@ -64,7 +64,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Sanni-Peltola" target="_blank"><img src="{{ "/assets/media/profile_pictures/Sanni_Peltola.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Sanni-Peltola" target="_blank"><img src="{{ "/assets/media/profile_pictures/P/Sanni_Peltola.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sanni Peltola</p>
 <p class="role"><a href="mailto:haam.community2023+engagement@gmail.com">Engagement Team Leader</a></p>
 <p>University of Turku</p>
@@ -74,7 +74,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://cagt.cnrs.fr/titze-anna-lena/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Anna-Lena_Titze.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://cagt.cnrs.fr/titze-anna-lena/" target="_blank"><img src="{{ "/assets/media/profile_pictures/T/Anna-Lena_Titze.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Anna-Lena Titze</p>
 <p class="role">Engagement Team</p>
 <p>CAGT, UMR-5288, CNRS</p>
@@ -87,7 +87,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Xavier-Roca-Rada" target="_blank"><img src="{{ "/assets/media/profile_pictures/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Xavier-Roca-Rada" target="_blank"><img src="{{ "/assets/media/profile_pictures/R/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Xavier Roca-Rada</p>
 <p class="role"><a href="mailto:haam.community2023+socialmedia@gmail.com">Social Media Team Leader</a></p>
 <p>Brown University</p>
@@ -95,7 +95,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Alicia-Muriel" target="_blank"><img src="{{ "/assets/media/profile_pictures/Alicia_Muriel.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.researchgate.net/profile/Alicia-Muriel" target="_blank"><img src="{{ "/assets/media/profile_pictures/M/Alicia_Muriel.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Alicia Muriel</p>
 <p class="role">Social Media Team</p>
 <p>Centre for Palaeogenetics, Stockholm University</p>
@@ -103,7 +103,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.eva.mpg.de/de/genetics/advanced-dna-sequencing-techniques/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/Aurore_Galtier.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://www.eva.mpg.de/de/genetics/advanced-dna-sequencing-techniques/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/G/Aurore_Galtier.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Aurore Galtier</p>
 <p class="role">Social Media Team</p>
 <p>MPI-EVA</p>
@@ -152,31 +152,31 @@ Below is a list of all past members of the HAAM Steering Committee, who helped c
 <div class = "past_member_block"> 
 
 <div class ="past_member">
-<img src="{{ "/assets/media/profile_pictures/past_members/Epifania_Arango_Isaza.jpg" | relative_url }}" alt="Avatar" />
+<img src="{{ "/assets/media/profile_pictures/A/Epifania_Arango_Isaza.jpg" | relative_url }}" alt="Avatar" />
 <p>Epifanía Arango Isaza</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
-<img src="{{ "/assets/media/profile_pictures/past_members/Laura_Lacher.jpg" | relative_url }}" alt="Avatar" />
+<img src="{{ "/assets/media/profile_pictures/L/Laura_Lacher.jpg" | relative_url }}" alt="Avatar" />
 <p>Laura Lacher</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
-<img src="{{ "/assets/media/profile_pictures/past_members/Miren_Iraeta_Orbegozo.jpg" | relative_url }}" alt="Avatar" />
+<img src="{{ "/assets/media/profile_pictures/I/Miren_Iraeta_Orbegozo.jpg" | relative_url }}" alt="Avatar" />
 <p>Miren Iraeta Orbegozo</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
-<img src="{{ "/assets/media/profile_pictures/past_members/Adam_Ben_Rohrlach.jpg" | relative_url }}" alt="Avatar" />
+<img src="{{ "/assets/media/profile_pictures/R/Adam_Ben_Rohrlach.jpg" | relative_url }}" alt="Avatar" />
 <p>Adam Ben Rohrlach</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
-<img src="{{ "/assets/media/profile_pictures/past_members/Marina_Silva.jpg" | relative_url }}" alt="Avatar" />
+<img src="{{ "/assets/media/profile_pictures/S/Marina_Silva.jpg" | relative_url }}" alt="Avatar" />
 <p>Marina Silva</p>
 <p>2023-2025</p>
 </div>
