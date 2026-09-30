@@ -46,13 +46,17 @@ Second, diversifying the range of activities, including social and informal even
 
 <!-- Kawtar El Mohippe -->
 <div class="candidate-container">
-    <!-- <img src="{{ "/assets/media/profile_pictures/election_candidates/Kawtar_El_Mohippe.jpg" | relative_url }}" alt="Avatar" /> -->
-    <img src="{{ "/assets/media/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" />
-    <div class="text-content"><h4>Kawtar El Mohippe</h4>National Institute of Archaeological sciences and heritage
+    <img src="{{ "/assets/media/profile_pictures/election_candidates/Kawtar_El_Mohippe.jpg" | relative_url }}" alt="Avatar" />
+    <div class="text-content"><h4>Kawtar El Mohippe</h4>National Institute of Archaeology and Heritage
+(INSAP)
 Rabat, Morocco</div>
 </div>
 
-<!-- BIO here: -->
+I am Kawtar El Mohippe, a PhD candidate in Prehistoric Archaeology at the National Institute of Archaeology and Heritage (INSAP) in Rabat, Morocco.
+I am also a research fellow at the Senckenberg Centre for Human Evolution andPalaeoenvironment (SHEP) at the University of Tübingen in Germany.
+My doctoral research focuses on the archaeogenetic study of prehistoric canids in Morocco, combining ancient DNA, stable isotope analysis, and archaeological approaches to study human–canid interactions, mobility, and the origins and development of dogs in North Africa.
+I would like to join the HAAM Steering Committee because, as a Moroccan researcher working on ancient DNA from North Africa, I see the HAAM community as an important space to strengthen the representation of regions that remain underrepresented in archaeogenetic research.
+Being part of the committee would allow me to bring perspectives from Morocco and North Africa into discussions within the community, while also helping build stronger connections between researchers working in Africa particularly for early-career researchers and those working with limited access to training and research opportunities, and the wider archaeogenetics community.
 
 <!-- Ronan O' Sullivan -->
 <div class="candidate-container">
