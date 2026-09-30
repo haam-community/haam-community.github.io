@@ -1,0 +1,11 @@
+Profile pictures of steering committee members current and past go in this index. 
+The images are sorted into the directory of the **first letter of the Last Name** of the person, while the file is named with the full First and Last name(s) of the person, with any spaces coverted to underscores.
+Avoid using special accent characters, as that makes it harder to maintain the website long-term. (i.e. `í` -> `i` in file names).
+Apostrophes in names should be omitted, as `'` characters can break code blocks.
+Take care to distinguish between people with two first names, vs two last names!
+
+e.g.
+ - Thiseas Christos Lamnidis -> L/Thiseas_Christos_Lamnidis.jpg (two first names)
+ - Epifanía Arango Isaza     -> A/Epifania_Arango_Isaza.jpg     (two last names, and special characters)
+ - Ronan O' Sullivan         -> O/Ronan_O_Sullivan.jpg          (apostrophe omitted)
+ - Anna-Lena Titze           -> T/Anna-Lena_Titze.jpg           (hyphenated first name kept hyphenated)
