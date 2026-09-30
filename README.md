@@ -21,7 +21,13 @@ Click here to start a GitHub Codespace with the full Jekyll environment:
 
      <img width="481" height="141" alt="image" src="https://github.com/user-attachments/assets/fc39b596-99b3-421c-9e2f-5bc476b9d987" />
 
-   - If the preview functionality does not work, you can try running `bundle exec jekyll serve` manually.
+   - If you did not see this popup, you can click on the "Ports" tab in the bottom of the codespace, mouseover the Forwarded addresses column, and click on the "🌐" icon.
+     This will open a new browser tab with the preview of the changes you make. You can refresh this page every time you save to preview the changes.
+
+     <img width="1089" height="162" alt="Screenshot 2026-09-30 at 14 22 47" src="https://github.com/user-attachments/assets/84b09f67-a8a8-4f46-8185-ee29dec92e19" />
+
+
+   - Finally, if the preview functionality does not work, you can try running `bundle exec jekyll serve` manually, then follow the steps above to get a preview of changes.
 4. At the bottom of the codespace, click on `main`, and create a new branch for your changes.
 5. Make changes, commit them, and push them to the repository (via the "Source Control" tab on the left sidebar of the codespace).
 6. Close the codespace, and open a Pull Request with your changes.
