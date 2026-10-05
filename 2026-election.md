@@ -73,11 +73,12 @@ If elected, I would bring a strong logistical skill set to the committee, having
 
 <!-- Seher Elif Mekik -->
 <div class="candidate-container">
-    <!-- <img src="{{ "/assets/media/profile_pictures/election_candidates/Seher_Elif_Mekik.jpg" | relative_url }}" alt="Avatar" /> -->
-    <img src="{{ "/assets/media/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" />
+    <img src="{{ "/assets/media/profile_pictures/election_candidates/seherelifmekik.jpeg" | relative_url }}" alt="Avatar" /> 
     <div class="text-content"><h4>Seher Elif Mekik</h4>Ancient DNA and Metagenomics Laboratory,
+Department of Molecular Biology and Genetics
 Istanbul University,
 Istanbul, Turkey</div>
 </div>
 
-<!-- BIO here: -->
+I am Seher Elif Mekik, an early-career researcher in molecular biology and genetics with a particular interest in population genomics, ancient DNA, and biomolecular archaeology. I recently completed my MSc in Molecular Biology and Genetics at Istanbul University and currently work as a research assistant at the Institute of Nanotechnology and Biotechnology at Istanbul University-Cerrahpaşa. My research experience includes both computational population genetics and wet-lab biomolecular approaches.
+I would like to join the HAAM Steering Committee because I see HAAM as a valuable community for early-career researchers in archaeogenetics. I have previously been involved in different academic and student communities, where I especially enjoyed helping organise activities, bringing people together, and contributing behind the scenes. I would be happy to bring the same approach to HAAM and contribute to activities that help members connect, exchange ideas, and feel part of the community.
