@@ -14,7 +14,7 @@ They contain div class "member" blocks that have the picture of each member foll
 -->
 <div class="avatar">
 
-<div class ="member">
+<!-- <div class ="member">
 <div class="square"><a href="https://www.katalog.uu.se/empinfo/?id=N23-275" target="_blank"><img src="{{ "/assets/media/profile_pictures/S/Tina_Saupe.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Tina Saupe</p>
 <p class="role"><a href="mailto:haam.community2023+secretary@gmail.com">Secretary</a></p>
@@ -28,7 +28,7 @@ They contain div class "member" blocks that have the picture of each member foll
 <p class="role"><a href="mailto:haam.community2023+management@gmail.com">Chair</a></p>
 <p>MPI-EVA</p>
 <p>Leipzig, DE</p>
-</div>
+</div> -->
 
 <div class ="member">
 <div class="square"><a href="https://ceciliapad.github.io/web/" target="_blank"><img src="{{ "/assets/media/profile_pictures/P/Cecilia_Padilla.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -42,13 +42,13 @@ They contain div class "member" blocks that have the picture of each member foll
 
 <div class="avatar">
 
-<div class ="member">
+<!-- <div class ="member">
 <div class="square"><a href="https://www.eva.mpg.de/tropical-archaeogenomics/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/A/Beatriz_Amorim.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Beatriz Amorim</p>
 <p class="role"><a href="mailto:haam.community2023+treasurer@gmail.com">Treasurer</a></p>
 <p>MPI-EVA</p>
 <p>Leipzig, DE</p>
-</div>
+</div> -->
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Youssef-Tawfik" target="_blank"><img src="{{ "/assets/media/profile_pictures/T/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -86,13 +86,13 @@ They contain div class "member" blocks that have the picture of each member foll
 
 <div class="avatar">
 
-<div class ="member">
+<!-- <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Xavier-Roca-Rada" target="_blank"><img src="{{ "/assets/media/profile_pictures/R/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Xavier Roca-Rada</p>
 <p class="role"><a href="mailto:haam.community2023+socialmedia@gmail.com">Social Media Team Leader</a></p>
 <p>Brown University</p>
 <p>Providence, USA</p>
-</div>
+</div> -->
 
 <div class ="member">
 <div class="square"><a href="https://www.researchgate.net/profile/Alicia-Muriel" target="_blank"><img src="{{ "/assets/media/profile_pictures/M/Alicia_Muriel.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -148,7 +148,8 @@ We aim to help create a space where everyone feels respected, included, and empo
 
 Below is a list of all past members of the HAAM Steering Committee, who helped create, establish, and improve our community over the years.
 
-<!-- The past member block defines which profiles will appear in the same group in the final website.-->
+<!-- The past member block defines which profiles will appear in the same group in the final website.
+    Past members appear in alphabetical order of their last names. -->
 <div class = "past_member_block"> 
 
 <div class ="past_member">
@@ -179,6 +180,34 @@ Below is a list of all past members of the HAAM Steering Committee, who helped c
 <img src="{{ "/assets/media/profile_pictures/S/Marina_Silva.jpg" | relative_url }}" alt="Avatar" />
 <p>Marina Silva</p>
 <p>2023-2025</p>
+</div>
+
+</div>
+
+<div class="past_member_block">
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/A/Beatriz_Amorim.jpg" | relative_url }}" alt="Avatar" />
+<p>Beatriz Amorim</p>
+<p>2023-2026</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/L/Thiseas_Christos_Lamnidis.jpg" | relative_url }}" alt="Avatar" />
+<p>Thiseas Christos Lamnidis</p>
+<p>2023-2026</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/R/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" />
+<p>Xavier Roca Rada</p>
+<p>2023-2026</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/S/Tina_Saupe.jpg" | relative_url }}" alt="Avatar" />
+<p>Tina Saupe</p>
+<p>2023-2026</p>
 </div>
 
 </div>
