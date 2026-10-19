@@ -148,7 +148,8 @@ We aim to help create a space where everyone feels respected, included, and empo
 
 Below is a list of all past members of the HAAM Steering Committee, who helped create, establish, and improve our community over the years.
 
-<!-- The past member block defines which profiles will appear in the same group in the final website.-->
+<!-- The past member block defines which profiles will appear in the same group in the final website.
+    Past members appear in alphabetical order of their last names. -->
 <div class = "past_member_block"> 
 
 <div class ="past_member">
@@ -179,6 +180,34 @@ Below is a list of all past members of the HAAM Steering Committee, who helped c
 <img src="{{ "/assets/media/profile_pictures/S/Marina_Silva.jpg" | relative_url }}" alt="Avatar" />
 <p>Marina Silva</p>
 <p>2023-2025</p>
+</div>
+
+</div>
+
+<div class="past_member_block">
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/A/Beatriz_Amorim.jpg" | relative_url }}" alt="Avatar" />
+<p>Beatriz Amorim</p>
+<p>2023-2026</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/L/Thiseas_Christos_Lamnidis.jpg" | relative_url }}" alt="Avatar" />
+<p>Thiseas Christos Lamnidis</p>
+<p>2023-2026</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/R/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" />
+<p>Xavier Roca Rada</p>
+<p>2023-2026</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/S/Tina_Saupe.jpg" | relative_url }}" alt="Avatar" />
+<p>Tina Saupe</p>
+<p>2023-2026</p>
 </div>
 
 </div>
