@@ -14,14 +14,6 @@ They contain div class "member" blocks that have the picture of each member foll
 -->
 <div class="avatar">
 
-<div class ="member">
-<div class="square"><a href="https://www.katalog.uu.se/empinfo/?id=N23-275" target="_blank"><img src="{{ "/assets/media/profile_pictures/M/Seher_Elif_Mekik.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Seher Elif Mekik</p>
-<p class="role"><a href="mailto:haam.community2023+secretary@gmail.com">Secretary</a></p>
-<p>Istanbul University</p>
-<p>University-Cerrahpaşa</p>
-<p>Istanbul, TR</p>
-</div>
 
 <div class ="member">
 <div class="square"><a href="https://ceciliapad.github.io/web/" target="_blank"><img src="{{ "/assets/media/profile_pictures/P/Cecilia_Padilla.jpg" | relative_url }}" alt="Avatar" /></a></div>
@@ -39,6 +31,14 @@ They contain div class "member" blocks that have the picture of each member foll
 <p>Tübingen, DE</p>
 </div>
 
+<div class ="member">
+<div class="square"><a href="https://www.katalog.uu.se/empinfo/?id=N23-275" target="_blank"><img src="{{ "/assets/media/profile_pictures/M/Seher_Elif_Mekik.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Seher Elif Mekik</p>
+<p class="role"><a href="mailto:haam.community2023+secretary@gmail.com">Secretary</a></p>
+<p>Istanbul University</p>
+<p>University-Cerrahpaşa</p>
+<p>Istanbul, TR</p>
+</div>
 
 </div>
 
@@ -132,10 +132,13 @@ Formed by the chair and the secretary. Responsible for ensuring the committee fu
 
 - **Secretary**: Takes meeting minutes, sends them out via Element when they are ready, makes sure that assignments are noted. Organisational responsibilities (i.e. keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
 
-## Treasurer team
+## Treasurer
 
-The treasurer team is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer team is also responsible to collect funds as well as finding grant opportunities to continue to fund HAAM initiatives.
+The treasurer is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer is also responsible to collect funds as well as finding grant opportunities to continue to fund HAAM initiatives.
 
+## Webmaster
+
+The webmaster is responsible for maintaining and updating the website, managing content and event announcements, and ensuring accessibilty and effective communication of community initiaves, activities and resources.
 
 ## Social media team
 
@@ -201,15 +204,15 @@ Below is a list of all past members of the HAAM Steering Committee, who helped c
 </div>
 
 <div class ="past_member">
-<img src="{{ "/assets/media/profile_pictures/R/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" />
-<p>Xavier Roca Rada</p>
+<img src="{{ "/assets/media/profile_pictures/L/Thiseas_Christos_Lamnidis.jpg" | relative_url }}" alt="Avatar" />
+<p>Thiseas Christos Lamnidis</p>
+<p>(Co-founder)</p>
 <p>2023-2026</p>
 </div>
 
 <div class ="past_member">
-<img src="{{ "/assets/media/profile_pictures/L/Thiseas_Christos_Lamnidis.jpg" | relative_url }}" alt="Avatar" />
-<p>Thiseas Christos Lamnidis</p>
-<p>(Co-founder)</p>
+<img src="{{ "/assets/media/profile_pictures/R/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" />
+<p>Xavier Roca Rada</p>
 <p>2023-2026</p>
 </div>
 
