@@ -166,30 +166,35 @@ Below is a list of all past members of the HAAM Steering Committee, who helped c
 <div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/A/Epifania_Arango_Isaza.jpg" | relative_url }}" alt="Avatar" />
 <p>Epifanía Arango Isaza</p>
+<p>(Co-founder)</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/L/Laura_Lacher.jpg" | relative_url }}" alt="Avatar" />
 <p>Laura Lacher</p>
+<p>(Co-founder)</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/I/Miren_Iraeta_Orbegozo.jpg" | relative_url }}" alt="Avatar" />
 <p>Miren Iraeta Orbegozo</p>
+<p>(Co-founder)</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/R/Adam_Ben_Rohrlach.jpg" | relative_url }}" alt="Avatar" />
 <p>Adam Ben Rohrlach</p>
+<p>(Co-founder)</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/S/Marina_Silva.jpg" | relative_url }}" alt="Avatar" />
 <p>Marina Silva</p>
+<p>(Co-founder)</p>
 <p>2023-2025</p>
 </div>
 
@@ -200,6 +205,7 @@ Below is a list of all past members of the HAAM Steering Committee, who helped c
 <div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/A/Beatriz_Amorim.jpg" | relative_url }}" alt="Avatar" />
 <p>Beatriz Amorim</p>
+<p>(Co-founder)</p>
 <p>2023-2026</p>
 </div>
 
@@ -213,6 +219,7 @@ Below is a list of all past members of the HAAM Steering Committee, who helped c
 <div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/R/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" />
 <p>Xavier Roca Rada</p>
+<p>(Co-founder)</p>
 <p>2023-2026</p>
 </div>
 
