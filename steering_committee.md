@@ -120,6 +120,20 @@ They contain div class "member" blocks that have the picture of each member foll
 
 </div>
 
+# IDEA Coordinator
+
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><a href="https://tinasaupe.github.io/academic-website/" target="_blank"><img src="{{ "/assets/media/profile_pictures/S/Tina_Saupe.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Tina Saupe</p>
+<p class="role"><a href="mailto:haam.community2023+IDEA@gmail.com">IDEA Coordinator</a></p>
+<p>University of Turku</p>
+<p>Turku, FI</p>
+</div>
+
+</div>
+
 ## Roles:
 
 ## Management team
@@ -151,7 +165,8 @@ The engagement officers are responsible for coming up with new initiatives (proj
 
 ## IDEA (Inclusion, Diversity, Equity, and Accessibility) Coordinator
 
-We aim to help create a space where everyone feels respected, included, and empowered. We're here as a point of contact for any concerns, suggestions, or ideas related to these topics. We are currently looking for an IDEA coordinator. If you are interested please reach out to us. :)
+We aim to help create a space where everyone feels respected, included, and empowered. We’re here as a point of contact for any concerns, suggestions, or ideas related to these topics. 
+Tina Saupe coordinates our current IDEA Team; please contact her with any concerns or requests. You can reach her by [email](haam.community2023+IDEA@gmail.com) or on Element.
 <!--If you encounter any issues—a problem, an incident, or an act of aggression—please don’t hesitate to contact Epifanía Arango via <!--[Element]() or-->
 
 
