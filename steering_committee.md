@@ -14,28 +14,30 @@ They contain div class "member" blocks that have the picture of each member foll
 -->
 <div class="avatar">
 
-<div class ="member">
-<div class="square"><a href="https://www.katalog.uu.se/empinfo/?id=N23-275" target="_blank"><img src="{{ "/assets/media/profile_pictures/S/Tina_Saupe.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Tina Saupe</p>
-<p class="role"><a href="mailto:haam.community2023+secretary@gmail.com">Secretary</a></p>
-<p>University of Turku</p>
-<p>Turku, FI</p>
-</div>
-
-<div class ="member">
-<div class="square"><a href="https://www.eva.mpg.de/archaeogenetics/staff/thiseas-christos-lamnidis/" target="_blank"><img src="{{ "/assets/media/profile_pictures/L/Thiseas_Christos_Lamnidis.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Thiseas Christos Lamnidis</p>
-<p class="role"><a href="mailto:haam.community2023+management@gmail.com">Chair</a></p>
-<p>MPI-EVA</p>
-<p>Leipzig, DE</p>
-</div>
 
 <div class ="member">
 <div class="square"><a href="https://ceciliapad.github.io/web/" target="_blank"><img src="{{ "/assets/media/profile_pictures/P/Cecilia_Padilla.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Cecilia Padilla</p>
+<p class="role"><a href="mailto:haam.community2023+management@gmail.com">Chair</a></p>
+<p>University of Tübingen</p>
+<p>Tübingen, DE</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://tawfikyoussef.github.io/" target="_blank"><img src="{{ "/assets/media/profile_pictures/T/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Youssef Tawfik</p>
 <p class="role"><a href="mailto:haam.community2023+management@gmail.com">Vice-Chair</a></p>
-<p>University of Cambridge</p>
-<p>Cambridge, GB</p>
+<p>University of Tübingen</p>
+<p>Tübingen, DE</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://avesis.iuc.edu.tr/43014-16" target="_blank"><img src="{{ "/assets/media/profile_pictures/M/Seher_Elif_Mekik.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Seher Elif Mekik</p>
+<p class="role"><a href="mailto:haam.community2023+secretary@gmail.com">Secretary</a></p>
+<p>Istanbul University</p>
+<p>Istanbul University-Cerrahpasa</p>
+<p>Istanbul, TR</p>
 </div>
 
 </div>
@@ -43,19 +45,22 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.eva.mpg.de/tropical-archaeogenomics/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/A/Beatriz_Amorim.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Beatriz Amorim</p>
+<div class="square"><a href="https://cagt.cnrs.fr/titze-anna-lena/" target="_blank"><img src="{{ "/assets/media/profile_pictures/T/Anna-Lena_Titze.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Anna-Lena Titze</p>
 <p class="role"><a href="mailto:haam.community2023+treasurer@gmail.com">Treasurer</a></p>
-<p>MPI-EVA</p>
-<p>Leipzig, DE</p>
+<p>CAGT, UMR-5288, CNRS</p>
+<p>University of Toulouse</p>
+<p>Toulouse, FR</p>
 </div>
 
+
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Youssef-Tawfik" target="_blank"><img src="{{ "/assets/media/profile_pictures/T/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Youssef Tawfik</p>
+<div class="square"><a href="https://www.researchgate.net/profile/Erkin_Alacamli" target="_blank"><img src="{{ "/assets/media/profile_pictures/A/Erkin_Alacamli.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Erkin Alaçamlı</p>
 <p class="role"><a href="mailto:haam.community2023+webmaster@gmail.com">Webmaster</a></p>
-<p>Johannes Gutenberg University of Mainz.</p>
-<p>Mainz, DE</p>
+<p>Estonian Biocentre, Institute of Genomics</p>
+<p>University of Tartu</p>
+<p> Tartu, EE</p>
 </div>
 
 
@@ -74,12 +79,13 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://cagt.cnrs.fr/titze-anna-lena/" target="_blank"><img src="{{ "/assets/media/profile_pictures/T/Anna-Lena_Titze.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Anna-Lena Titze</p>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/A/Eman_Adel.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Eman Adel</p>
 <p class="role">Engagement Team</p>
-<p>CAGT, UMR-5288, CNRS</p>
-<p>University of Toulouse</p>
-<p>Toulouse, FR</p>
+<p>Systems Biology Lab</p>
+<p>American University in Cairo</p>
+<p>Egypt Center for Research and Generative Medicine (ECRRM)</p>
+<p>Cairo, EG</p>
 </div>
 
 </div>
@@ -87,11 +93,11 @@ They contain div class "member" blocks that have the picture of each member foll
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Xavier-Roca-Rada" target="_blank"><img src="{{ "/assets/media/profile_pictures/R/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Xavier Roca-Rada</p>
+<div class="square"><a href="https://www.eva.mpg.de/de/genetics/advanced-dna-sequencing-techniques/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/G/Aurore_Galtier.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Aurore Galtier</p>
 <p class="role"><a href="mailto:haam.community2023+socialmedia@gmail.com">Social Media Team Leader</a></p>
-<p>Brown University</p>
-<p>Providence, USA</p>
+<p>MPI-EVA</p>
+<p>Leipzig, DE</p>
 </div>
 
 <div class ="member">
@@ -103,11 +109,13 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.eva.mpg.de/de/genetics/advanced-dna-sequencing-techniques/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/G/Aurore_Galtier.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Aurore Galtier</p>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/E/Kawtar_El_Mohippe.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kawtar el mohippe</p>
 <p class="role">Social Media Team</p>
-<p>MPI-EVA</p>
-<p>Leipzig, DE</p>
+<p>INSAP</p>
+<p>Rabat, MA</p>
+<p>University of Tübingen</p>
+<p>Tübingen, DE</p>
 </div>
 
 </div>
@@ -124,10 +132,13 @@ Formed by the chair and the secretary. Responsible for ensuring the committee fu
 
 - **Secretary**: Takes meeting minutes, sends them out via Element when they are ready, makes sure that assignments are noted. Organisational responsibilities (i.e. keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
 
-## Treasurer team
+## Treasurer
 
-The treasurer team is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer team is also responsible to collect funds as well as finding grant opportunities to continue to fund HAAM initiatives.
+The treasurer is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer is also responsible to collect funds as well as finding grant opportunities to continue to fund HAAM initiatives.
 
+## Webmaster
+
+The webmaster is responsible for maintaining and updating the website, managing content and event announcements, and ensuring accessibilty and effective communication of community initiaves, activities and resources.
 
 ## Social media team
 
@@ -148,37 +159,75 @@ We aim to help create a space where everyone feels respected, included, and empo
 
 Below is a list of all past members of the HAAM Steering Committee, who helped create, establish, and improve our community over the years.
 
-<!-- The past member block defines which profiles will appear in the same group in the final website.-->
+<!-- The past member block defines which profiles will appear in the same group in the final website.
+    Past members appear in alphabetical order of their last names. -->
 <div class = "past_member_block"> 
 
 <div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/A/Epifania_Arango_Isaza.jpg" | relative_url }}" alt="Avatar" />
 <p>Epifanía Arango Isaza</p>
+<p>(Co-founder)</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/L/Laura_Lacher.jpg" | relative_url }}" alt="Avatar" />
 <p>Laura Lacher</p>
+<p>(Co-founder)</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/I/Miren_Iraeta_Orbegozo.jpg" | relative_url }}" alt="Avatar" />
 <p>Miren Iraeta Orbegozo</p>
+<p>(Co-founder)</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/R/Adam_Ben_Rohrlach.jpg" | relative_url }}" alt="Avatar" />
 <p>Adam Ben Rohrlach</p>
+<p>(Co-founder)</p>
 <p>2023-2025</p>
 </div>
 
 <div class ="past_member">
 <img src="{{ "/assets/media/profile_pictures/S/Marina_Silva.jpg" | relative_url }}" alt="Avatar" />
 <p>Marina Silva</p>
+<p>(Co-founder)</p>
 <p>2023-2025</p>
+</div>
+
+</div>
+
+<div class="past_member_block">
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/A/Beatriz_Amorim.jpg" | relative_url }}" alt="Avatar" />
+<p>Beatriz Amorim</p>
+<p>(Co-founder)</p>
+<p>2023-2026</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/L/Thiseas_Christos_Lamnidis.jpg" | relative_url }}" alt="Avatar" />
+<p>Thiseas Christos Lamnidis</p>
+<p>(Co-founder)</p>
+<p>2023-2026</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/R/Xavier_Roca_Rada.jpg" | relative_url }}" alt="Avatar" />
+<p>Xavier Roca Rada</p>
+<p>(Co-founder)</p>
+<p>2023-2026</p>
+</div>
+
+<div class ="past_member">
+<img src="{{ "/assets/media/profile_pictures/S/Tina_Saupe.jpg" | relative_url }}" alt="Avatar" />
+<p>Tina Saupe</p>
+<p>(Co-founder)</p>
+<p>2023-2026</p>
 </div>
 
 </div>

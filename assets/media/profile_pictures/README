@@ -3,6 +3,7 @@ The images are sorted into the directory of the **first letter of the Last Name*
 Avoid using special accent characters, as that makes it harder to maintain the website long-term. (i.e. `í` -> `i` in file names).
 Apostrophes in names should be omitted, as `'` characters can break code blocks.
 Take care to distinguish between people with two first names, vs two last names!
+Finally, the suffix of the files should be `jpg` and NOT `jpeg`, for consitency.
 
 e.g.
  - Thiseas Christos Lamnidis -> L/Thiseas_Christos_Lamnidis.jpg (two first names)
