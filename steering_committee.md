@@ -24,7 +24,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.researchgate.net/profile/Youssef-Tawfik" target="_blank"><img src="{{ "/assets/media/profile_pictures/T/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://tawfikyoussef.github.io/" target="_blank"><img src="{{ "/assets/media/profile_pictures/T/Youssef_Tawfik.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Youssef Tawfik</p>
 <p class="role"><a href="mailto:haam.community2023+management@gmail.com">Vice-Chair</a></p>
 <p>University of Tübingen</p>
@@ -32,11 +32,11 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.katalog.uu.se/empinfo/?id=N23-275" target="_blank"><img src="{{ "/assets/media/profile_pictures/M/Seher_Elif_Mekik.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://avesis.iuc.edu.tr/43014-16" target="_blank"><img src="{{ "/assets/media/profile_pictures/M/Seher_Elif_Mekik.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Seher Elif Mekik</p>
 <p class="role"><a href="mailto:haam.community2023+secretary@gmail.com">Secretary</a></p>
 <p>Istanbul University</p>
-<p>University-Cerrahpaşa</p>
+<p>Istanbul University-Cerrahpasa</p>
 <p>Istanbul, TR</p>
 </div>
 
@@ -79,7 +79,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://cagt.cnrs.fr/titze-anna-lena/" target="_blank"><img src="{{ "/assets/media/profile_pictures/A/Eman_Adel.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/A/Eman_Adel.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Eman Adel</p>
 <p class="role">Engagement Team</p>
 <p>Systems Biology Lab</p>
@@ -109,7 +109,7 @@ They contain div class "member" blocks that have the picture of each member foll
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.eva.mpg.de/de/genetics/advanced-dna-sequencing-techniques/group-staff/" target="_blank"><img src="{{ "/assets/media/profile_pictures/E/Kawtar_El_Mohippe.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/media/profile_pictures/E/Kawtar_El_Mohippe.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Kawtar el mohippe</p>
 <p class="role">Social Media Team</p>
 <p>INSAP</p>
