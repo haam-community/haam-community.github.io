@@ -120,9 +120,23 @@ They contain div class "member" blocks that have the picture of each member foll
 
 </div>
 
+# IDEA Coordinator
+
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><a href="https://tinasaupe.github.io/academic-website/" target="_blank"><img src="{{ "/assets/media/profile_pictures/S/Tina_Saupe.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Tina Saupe</p>
+<p class="role"><a href="mailto:haam.community2023+IDEA@gmail.com">IDEA Coordinator</a></p>
+<p>University of Turku</p>
+<p>Turku, FI</p>
+</div>
+
+</div>
+
 ## Roles:
 
-## Management team
+### Management team
 
 Formed by the chair and the secretary. Responsible for ensuring the committee functions smoothly and achieves its goals.
 
@@ -132,26 +146,27 @@ Formed by the chair and the secretary. Responsible for ensuring the committee fu
 
 - **Secretary**: Takes meeting minutes, sends them out via Element when they are ready, makes sure that assignments are noted. Organisational responsibilities (i.e. keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time).
 
-## Treasurer
+### Treasurer
 
 The treasurer is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer is also responsible to collect funds as well as finding grant opportunities to continue to fund HAAM initiatives.
 
-## Webmaster
+### Webmaster
 
 The webmaster is responsible for maintaining and updating the website, managing content and event announcements, and ensuring accessibilty and effective communication of community initiaves, activities and resources.
 
-## Social media team
+### Social media team
 
 The social media team is responsible for the outreach of the community, by tweeting, emailing as well as updating the website. Social media officers will announce new initiatives, conferences, papers and jobs that are relevant for the HAAM community.
 <!-- They will also be responsible for maintaining the YouTube channel of the community. -->
 
-## Engagement team
+### Engagement team
 
 The engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known in the community, as well as outside the community together with the media team. As well as suggesting potential funding sources for the initiative, by engaging with the treasurer team.
 
-## IDEA (Inclusion, Diversity, Equity, and Accessibility) Coordinator
+### IDEA (Inclusion, Diversity, Equity, and Accessibility) Coordinator
 
-We aim to help create a space where everyone feels respected, included, and empowered. We're here as a point of contact for any concerns, suggestions, or ideas related to these topics. We are currently looking for an IDEA coordinator. If you are interested please reach out to us. :)
+We aim to help create a space where everyone feels respected, included, and empowered. We’re here as a point of contact for any concerns, suggestions, or ideas related to these topics. 
+Tina Saupe coordinates our current IDEA Team; please contact her with any concerns or requests. You can reach her by [email](haam.community2023+IDEA@gmail.com) or on Element.
 <!--If you encounter any issues—a problem, an incident, or an act of aggression—please don’t hesitate to contact Epifanía Arango via <!--[Element]() or-->
 
 
