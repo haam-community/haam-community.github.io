@@ -6,31 +6,31 @@ page_logo: assets/media/Logo_HAAM_Summer_School_Blue_v1.0.svg
 page_logo_alt: "HAAM Summer School logo"
 ---
 
-Coordinators: Aurore Galtier, Youssef Tawfik, Beatriz Amorim, Anna-Lena Titze.
+Coordinators: Anna-Lena Titze, Youssef Tawfik, Seher Elif Mekik, Erkin Alaçamlı, Eman Adel, Kawtar el mohippe.
 
-<!-- The 2026 edition of the HAAM Summer School is being organised. Stay tuned! -->
+The 2027 edition of the HAAM Summer School is being organised. Stay tuned!
 
-📣 The HAAM Summer School for 2026 has been announced! 📣
+<!-- 📣 The HAAM Summer School for 2026 has been announced! 📣 -->
 
 ## At a glance:
 
 - **Website:** 🌐 [https://haam-community.github.io/haam-summer-school/](https://haam-community.github.io/haam-summer-school/)
-- **When:** 📅 _1st to 5th June 2026_
+- **When:** 📅 _TBA_
 - **Where:** 📍 _Online_
 - **Price:** 💰 _Free_
 - **Target audience:** 🧑‍🔬🧑‍💻 _Students and early career researchers_
 
-<!--  **Stay tuned for application dates!** -->
+ **Stay tuned for application dates!**
 
 <!-- For more information on the HAAM Summer School 2025, see [this post](/news/2025/03/12/event/). -->
 
 # Information
 
-In line with the goals of the HAAM community to advance the field of human population genetics and ancient DNA (aDNA) through open collaboration and knowledge sharing, we are organising the second annual HAAM Summer School to share the latest methodologies in human aDNA research through online hands-on workshops by leading experts in the field.
+In line with the goals of the HAAM community to advance the field of human population genetics and ancient DNA (aDNA) through open collaboration and knowledge sharing, we are organising the fourth annual HAAM Summer School to share the latest methodologies in human aDNA research through online hands-on workshops by leading experts in the field.
 
 The Summer School will be held in a 100% virtual format to maximise accessibility and inclusivity for attendees worldwide, particularly for those working in lower-income countries and/or with limited funding. There will be a limited number of attendee positions.
 
-The programme will include both theoretical and practical sessions. The exact schedule is still to be confirmed, but over the course of three days, students will be given a dedicated introduction to:
+The programme will include both theoretical and practical sessions. The exact schedule is still to be confirmed, but over the course of five days, students will be given a dedicated introduction to:
 - working with human archaeological remains, 
 - the ethics involved with working with human remains,
 - the main challenges and features of aDNA sequencing data processing,
